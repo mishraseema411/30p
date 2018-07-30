@@ -990,20 +990,29 @@ footer p {
   margin-top: 10px;
   color: #777;
 }
-#blog-post .content .btn-read {
-  background: #80d6a3;
-  color: #fff;
-  padding:10px 20px;
-  font-size: 13px;
-  margin-top: 15px;
-  border-radius: 25px;
-}
+    #blog-post .content .btn-read {
+        background: #e9ab19;
+        color: #fff;
+        padding: 10px 20px;
+        font-size: 13px;
+        margin-top: 15px;
+        border-radius: 25px;
+    }
 
 /* =====================
    Blog Page
    ===================== */
 
+/* =====================
+  ranjana
+   ===================== */
 
+
+
+
+/* =====================
+  ranjana
+   ===================== */
 
 #blog-left{
   padding: 130px 0;
