@@ -145,6 +145,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="aboutus.aspx.cs">
+      <DependentUpon>aboutus.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="aboutus.aspx.designer.cs">
+      <DependentUpon>aboutus.aspx</DependentUpon>
+    </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
@@ -174,8 +181,19 @@
       <DependentUpon>index.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="saving.aspx.cs">
+      <DependentUpon>saving.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="saving.aspx.designer.cs">
+      <DependentUpon>saving.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
+    <Content Include="account.aspx" />
+=======
+    <Content Include="aboutus.aspx" />
+>>>>>>> ec3775173cf7b80b781db2b83b03a14031370afe
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -276,6 +294,7 @@
     <Content Include="js\jquery.flexslider.js" />
     <Content Include="js\jquery.waypoints.min.js" />
     <Content Include="js\main.js" />
+    <Content Include="saving.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="ApplicationInsights.config">
