@@ -21,6 +21,7 @@
     <!-- js -->
     <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
     <script src="js/main.js"></script>
+
     <!-- //js -->
     <!-- font-awesome icons -->
     <link rel="stylesheet" href="css/font-awesome.min.css" />
