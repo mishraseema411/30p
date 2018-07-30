@@ -92,6 +92,10 @@ C:\Users\Pasistence\Desktop\30pdcc\pdccredesign\obj\Debug\pdccredesign.csproj.Co
 C:\Users\Pasistence\Desktop\30pdcc\pdccredesign\obj\Debug\pdccredesign.dll
 C:\Users\Pasistence\Desktop\30pdcc\pdccredesign\obj\Debug\pdccredesign.pdb
 <<<<<<< HEAD
+F:\30p\pdccredesign\obj\Debug\pdccredesign.dll
+F:\30p\pdccredesign\obj\Debug\pdccredesign.pdb
+=======
+<<<<<<< HEAD
 C:\Users\Pasistence 01\Documents\GitHub\30p\pdccredesign\obj\Debug\pdccredesign.dll
 C:\Users\Pasistence 01\Documents\GitHub\30p\pdccredesign\obj\Debug\pdccredesign.pdb
 =======
@@ -189,3 +193,4 @@ G:\project\30p\pdccredesign\obj\Debug\pdccredesign.csproj.CopyComplete
 G:\project\30p\pdccredesign\obj\Debug\pdccredesign.dll
 G:\project\30p\pdccredesign\obj\Debug\pdccredesign.pdb
 >>>>>>> ec3775173cf7b80b781db2b83b03a14031370afe
+>>>>>>> 63dfd88b18f472e7e99100997938b3067d71dc86
