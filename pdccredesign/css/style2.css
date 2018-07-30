@@ -1,0 +1,69 @@
+﻿/* =====================
+   Blog Post
+   ===================== */
+
+
+#blog {
+    padding: 100px 0;
+    background: #f1f1f1;
+}
+
+#blog-post .block {
+    background: #fff;
+    margin: 0 5px;
+}
+
+#blog-post .content {
+    padding: 30px 25px;
+    text-align: center;
+}
+
+    #blog-post .content h4 {
+        text-transform: capitalize;
+        position: relative;
+        margin: 20px 0 10px;
+        padding: 10px 0;
+    }
+
+        #blog-post .content h4 a {
+            color: #333;
+        }
+
+            #blog-post .content h4 a:hover {
+                color: #80d6a3;
+            }
+
+        #blog-post .content h4::before {
+            content: '';
+            position: absolute;
+            left: 45%;
+            top: -6px;
+            width: 30px;
+            height: 2px;
+            background-color: #80d6a3;
+            -webkit-transition: .3s all;
+            -o-transition: .3s all;
+            transition: .3s all;
+        }
+
+    #blog-post .content small {
+        color: #999;
+    }
+
+    #blog-post .content p {
+        margin-top: 10px;
+        color: #777;
+    }
+
+    #blog-post .content .btn-read {
+        background: #80d6a3;
+        color: #fff;
+        padding: 10px 20px;
+        font-size: 13px;
+        margin-top: 15px;
+        border-radius: 25px;
+    }
+
+/* =====================
+   Blog Page
+   ===================== */
