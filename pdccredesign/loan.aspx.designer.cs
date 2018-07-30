@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace pdcc30 {
+namespace pdccredesign {
     
     
     public partial class loan {

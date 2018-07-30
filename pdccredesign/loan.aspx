@@ -1,11 +1,11 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="loan.aspx.cs" Inherits="pdcc30.loan" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="loan.aspx.cs" Inherits="pdccredesign.loan" %>
 
 <!DOCTYPE html>
 <%@ Register Src="~/header.ascx" TagPrefix="head" TagName="Header" %>
 <%@ Register Src="~/footer.ascx" TagPrefix="foot" TagName="Footer" %>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
-<title>Pune District Central Co-Operative Bank Ltd.</title>
+<title>Loan | Pune District Central Co-Operative Bank Ltd.</title>
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />

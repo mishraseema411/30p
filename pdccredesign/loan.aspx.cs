@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace pdcc30
+namespace pdccredesign
 {
     public partial class loan : System.Web.UI.Page
     {
