@@ -43,7 +43,7 @@
 			</div>  
            <div class="grid_3 grid_4 w3layouts">
 				<h3 class="hdg">Introduction</h3>
-               <hr></hr>
+               <hr color="red"></hr>
                </div>
 			<div class="contact-agileinfo">
 				<div class="col-md-7 contact-form wthree">
@@ -65,57 +65,43 @@
 			</div>
 		</div>
 	</div>
-    <!-- Benefits-->
-    <div class="contact agileits">
+     <!-- Benefits-->
+        <div class="contact agileits">
 		<div class="container">  
-           <div class="contact-agileinfo">
+			  
+			<div class="contact-agileinfo">
+				<div class="col-md-4 contact-form wthree">
+                    <img src="images/saving.jpg" width="400" height="350">
+					
+               <div class="agileits_w3layouts_more">
+				    <a href="#" data-toggle="modal" data-target="#myModal">Appy Online</a>
+				    </div>
+                  </div>
 				<div class="col-md-7 contact-right wthree">
-                    <div class="grid_3 grid_4 w3layouts">
-				<h3 class="hdg">Benifits</h3>
-               </div>
-					<h5>* We offer a variety of accounts, each tailored to your savings needs. </h5> <br>
+					<div class="contact-text w3-agileits">
+                        <div class="grid_3 grid_4 w3layouts">
+				        <h3 class="hdg">Benifits</h3>
+                         </div>
+						<h5>* We offer a variety of accounts, each tailored to your savings needs. </h5> <br>
                     <h5> *  SMS Alerts . </h5><br>
                     <h5> *  Easy to monitor account activity Passbook.</h5><br>
                     <h5> *  To enjoy all these benefits, just open a savings account with any branch of our bank.</h5><br>
                     <h5> *  4 Free withdrawal transactions (Includes Branch Cash and PDCC/Other ATM cash withdrawal transactions).</h5><br>
                     <h5>  To enjoy all these benefits, just open a savings account with any branch of our bank.</h5>
-                  </div>
+					</div>
+				</div> 
 				<div class="clearfix"> </div>	
 			</div>
 		</div>
 	</div>
+
+
+
+
+
+
+   
     
-     <div class="contact agileits">
-		<div class="container">  
-           <div class="contact-agileinfo">
-				<div class="col-md-7 contact-right wthree">
-                    <div class="grid_3 grid_4 w3layouts">
-				<h3 class="hdg">Documents Required</h3>
-               </div>
-					<h5>* Application form (Download from Above) </h5> <br>
-                    <h5> *  To open a Savings Account, applicants must provide: Two latest passport size photographs. </h5><br>
-                    <h5> *  Proof of Identity: PAN Card, Voter Id Card, Passport, Driving License</h5><br>
-                    <h5> *  Proof of Address: Latest Telephone Bill or Electricity Bill</h5><br>
-                  </div>
-				<div class="clearfix"> </div>	
-			</div>
-		</div>
-	</div>
-    
-            <div class="contact agileits">
-		<div class="container">  
-           <div class="contact-agileinfo">
-				<div class="col-md-7 contact-right wthree">
-                    <div class="grid_3 grid_4 w3layouts">
-				<h3 class="hdg">Terms And Conditions</h3>
-               </div>
-					<h5>* The aggregate of all withdrawals and transfers in a day should not exceed Rs. 10,000/- . </h5> <br>
-                    <h5> *  All banking transactions are chargeable at normal charges as published from time-to-time. </h5><br>
-                    <h5> * Any government charges, duties or taxes devolving from the provision of any of the facilities shall, if imposed upon the Bank (either directly or indirectly), be debited from the customer's account. </h5>
-                  </div>
-				<div class="clearfix"> </div>	
-			</div>
-		</div>
 	</div>    
 <!-- stats -->
 	<script src="js/jquery.waypoints.min.js"></script>
