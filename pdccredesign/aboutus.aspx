@@ -16,6 +16,7 @@
     <!-- //for-mobile-apps -->
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
     <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+     <link href="css/style2.css" rel="stylesheet" type="text/css" media="all" />
     <link href="css/style1.css" rel="stylesheet" type="text/css" />
     <!-- js -->
     <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
