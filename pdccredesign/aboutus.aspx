@@ -35,120 +35,130 @@
     <style>
         /*abt us bank assets*/
 
-.imageBox {
-    position: relative;
-    overflow: hidden;
-}
-
-    .imageBox img {
-        width: 100%;
-        transition: .5s;
-    }
-
-.textBox {
-    position: absolute;
-    top: 0;
-    left: -100%;
-    width: 100%;
-    height: 100%;
-    background: rgba(255,255,0,0.6);
-    transition: .5s;
-}
-
-    .textBox h3 {
-        margin: 0;
-        padding: 0;
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%,-50%);
-        color: #000;
-        font-family: arial;
-    }
-
-.imageBox:hover .textBox {
-    left: 0;
-}
-
-.imageBox:hover img {
-    transform: scale(1.2);
-}
-/*bod*/ 
-.media {
-    border:1px solid #E9AB19;
-  display: inline-block;
-  position: relative;
-  vertical-align: top;
-}
-
-.media__image { display: block; padding:2px 2px 2px 2px; }
-
-.media__body {
-  background: rgba(255, 255, 0, 0.4);
-  bottom: 0;
-  color: white;
-  font-size: 1em;
-  left: 0;
-  opacity: 0;
-  overflow: hidden;
-  padding: 3.75em 3em;
-  position: absolute;
-  text-align: center;
-  top: 0;
-  right: 0;
-  -webkit-transition: 0.6s;
-  transition: 0.6s;
-}
-
-.media__body:hover { opacity: 1; }
-
-.media__body:after,
-.media__body:before {
-  border: 1px solid rgba(255, 255, 255, 0.5);
-  bottom: 1em;
-  content: '';
-  left: 1em;
-  opacity: 0;
-  position: absolute;
-  right: 1em;
-  top: 1em;
-  -webkit-transform: scale(1.5);
-  -ms-transform: scale(1.5);
-  transform: scale(1.5);
-  -webkit-transition: 0.6s 0.2s;
-  transition: 0.6s 0.2s;
-}
-
-.media__body:before {
-  border-bottom: none;
-  border-top: none;
-  left: 2em;
-  right: 2em;
-}
-        #bod img {
-       width:180px;
-       height:250px;
+        .imageBox {
+            position: relative;
+            overflow: hidden;
         }
 
-.media__body:after {
-  border-left: none;
-  border-right: none;
-  bottom: 2em;
-  top: 2em;
-}
+            .imageBox img {
+                width: 100%;
+                transition: .5s;
+            }
 
-.media__body:hover:after,
-.media__body:hover:before {
-  -webkit-transform: scale(1);
-  -ms-transform: scale(1);
-  transform: scale(1);
-  opacity: 1;
-}
+        .textBox {
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: rgba(255,255,0,0.6);
+            transition: .5s;
+        }
 
-.media__body h2 { margin-top: 0; }
+            .textBox h3 {
+                margin: 0;
+                padding: 0;
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%,-50%);
+                color: #000;
+                font-family: arial;
+            }
 
-.media__body p { margin-bottom: 1.5em; }
-/*bod style close*/
+        .imageBox:hover .textBox {
+            left: 0;
+        }
+
+        .imageBox:hover img {
+            transform: scale(1.2);
+        }
+        /*bod*/
+        .media {
+            border: 1px solid #E9AB19;
+            display: inline-block;
+            position: relative;
+            vertical-align: top;
+        }
+
+        .media__image {
+            display: block;
+            padding: 2px 2px 2px 2px;
+        }
+
+        .media__body {
+            background: rgba(255, 255, 0, 0.4);
+            bottom: 0;
+            color: white;
+            font-size: 1em;
+            left: 0;
+            opacity: 0;
+            overflow: hidden;
+            padding: 3.75em 3em;
+            position: absolute;
+            text-align: center;
+            top: 0;
+            right: 0;
+            -webkit-transition: 0.6s;
+            transition: 0.6s;
+        }
+
+            .media__body:hover {
+                opacity: 1;
+            }
+
+            .media__body:after,
+            .media__body:before {
+                border: 1px solid rgba(255, 255, 255, 0.5);
+                bottom: 1em;
+                content: '';
+                left: 1em;
+                opacity: 0;
+                position: absolute;
+                right: 1em;
+                top: 1em;
+                -webkit-transform: scale(1.5);
+                -ms-transform: scale(1.5);
+                transform: scale(1.5);
+                -webkit-transition: 0.6s 0.2s;
+                transition: 0.6s 0.2s;
+            }
+
+            .media__body:before {
+                border-bottom: none;
+                border-top: none;
+                left: 2em;
+                right: 2em;
+            }
+
+        #bod img {
+            width: 180px;
+            height: 250px;
+        }
+
+        .media__body:after {
+            border-left: none;
+            border-right: none;
+            bottom: 2em;
+            top: 2em;
+        }
+
+        .media__body:hover:after,
+        .media__body:hover:before {
+            -webkit-transform: scale(1);
+            -ms-transform: scale(1);
+            transform: scale(1);
+            opacity: 1;
+        }
+
+        .media__body h2 {
+            margin-top: 0;
+        }
+
+        .media__body p {
+            margin-bottom: 1.5em;
+        }
+        /*bod style close*/
     </style>
 </head>
 <body>
@@ -160,7 +170,7 @@
 
 
 
-    <section id="testimonial" style="font-family: Verdana; align-content:center;">
+    <section id="testimonial" style="font-family: Verdana; align-content: center;">
 
         <div class="container">
 
@@ -179,21 +189,21 @@
                         <div class="tab-content" style="background-color: #F9F8F3; padding: 15px 15px 15px 15px;">
                             <div role="tabpanel" class="tab-pane active" id="tab1">
 
-                                <h2 class="w3ls_head" style="padding-bottom:2px;"><span>PUNE </span>PROFILE</h2> 
+                                <h2 class="w3ls_head" style="padding-bottom: 2px;"><span>PUNE </span>PROFILE</h2>
                                 <hr>
                                 <span>Surrounded with hills and lakes, the picturesque city of Pune is the pride of west India. It is the cultural capital of the state of Maharashtra. The cultural and intellectual capacity of Pune has earned it the title of being the ‘Oxford of the East.’ Pune is 192 km from Mumbai & situated on Mumbai Banglore National Highway (NH-4).</span>
 
-                                <a href="#" data-toggle="modal" data-target="#myModal">Read More</a>
+                                <a href="#" data-toggle="modal" data-target="#myModal">...Read More</a>
 
                                 <hr>
-                                <h2 class="w3ls_head" style="padding-bottom:2px;"><span>PDCC </span>PROFILE</h2> 
+                                <h2 class="w3ls_head" style="padding-bottom: 2px;"><span>PDCC </span>PROFILE</h2>
                                 <hr>
                                 <span>In furtherance to the development of the co-operative movement in the district, the need for establishment of separate machinery for the distribution of finance in the rural areas was felt vigorously & hence the district central co-op,banks came into existence as a Central Finance Agency to meet the financial requirement of the various co-operative in the district. The co-operative societies act gave birth to many co-operative institutions ,hence the Pune District Central Co-operative Bank came into existence on 4th SEPT.1917 with the vigorous efforts taken by late Shri.N.C.Kelkar. Now the bank is having its registered office at 4 B, B. J. Road, Pune 411 001. The Bank is also having Banking License No. RPCD Bombay 62 C, Dated 16/3/1995 from Reserve Bank of India to transact Banking business.
                                 </span>
 
-                                <a href="#" data-toggle="modal" data-target="#myModal">Read More</a>
+                                <a href="#" data-toggle="modal" data-target="#myModal">...Read More</a>
                                 <hr>
-                                <h2 class="w3ls_head" style="padding-bottom:2px;"><span>TEAM </span>Assets</h2> 
+                                <h2 class="w3ls_head" style="padding-bottom: 2px;"><span>TEAM </span>Assets</h2>
                                 <hr>
                                 <div class="container-fluid">
                                     <div id="custom_carousel" class="carousel slide" data-ride="carousel" data-interval="2500">
@@ -270,7 +280,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                 </div>
                                 <!-- End Carousel -->
                                 <hr />
-                                <h2 class="w3ls_head" style="padding-bottom:2px;"><span>AIM </span></h2> 
+                                <h2 class="w3ls_head" style="padding-bottom: 2px;"><span>AIM </span></h2>
 
                                 <hr />
                                 <span>1. More attractive and beneficial to agriculture and rural families to complement your income and employment opportunities for cooperation in the field of the credit-supply.<br />
@@ -283,8 +293,8 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                 by improving the administrative context, taking into consideration future changes, bank policies and programs to implement the measures.<br />
                                 </span>
                                 <hr>
-                                <h2 class="w3ls_head" style="padding-bottom:2px;"><span>Bank </span>Assets</h2> 
-					 
+                                <h2 class="w3ls_head" style="padding-bottom: 2px;"><span>Bank </span>Assets</h2>
+
                                 <hr>
                                 <section>
                                     <div class="container">
@@ -324,48 +334,52 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                     </div>
                                                 </div>
                                             </div>
-                                            </div>
-                                            <hr />
-                                            <div class="row">
-                                                <div class="col-md-4">
-                                                    <div class="imageBox">
-                                                        <img src="images/bank assets/own reserves.png" />
-                                                        <div class="textBox">
-                                                            <h3>Own Reserves</h3>
-                                                        </div>
+                                        </div>
+                                        <hr />
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <div class="imageBox">
+                                                    <img src="images/bank assets/own reserves.png" />
+                                                    <div class="textBox">
+                                                        <h3>Own Reserves</h3>
                                                     </div>
                                                 </div>
-                                                <div class="col-md-4">
-                                                    <div class="imageBox">
-                                                        <img src="images/bank assets/working capital.png" />
-                                                        <div class="textBox">
-                                                            <h3>Working Capital</h3>
-                                                        </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                                <div class="imageBox">
+                                                    <img src="images/bank assets/working capital.png" />
+                                                    <div class="textBox">
+                                                        <h3>Working Capital</h3>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
+                                    </div>
                                 </section>
 
                             </div>
 
 
                             <div role="tabpanel" class="tab-pane" id="tab2">
-                                                               <h2 class="w3ls_head" style="padding-bottom:2px;"><span>BOARD OF </span>DIRECTORS</h2> 
+                                <h2 class="w3ls_head" style="padding-bottom: 2px;"><span>BOARD OF </span>DIRECTORS</h2>
 
                                 <section id="bod">
-                                    <div class="container" >
+
+                                    <div class="container">
+
                                         <div class="row">
-                                            <div class="col-md-3 ">
-                                                <div class="media" >
+
+                                            <div class="col-md-3 " style="margin:">
+                                                <div class="media">
                                                     <img class="media__image img-responsive" src="images/bod/ramesh_thorat.jpg">
                                                     <div class="media__body">
-                                                        
+
                                                         <h2>Shri. Ramesh Thorat</h2>
                                                         <p>Chairman</p>
                                                     </div>
                                                 </div>
                                             </div>
+
                                             <div class="col-md-3 ">
                                                 <div class="media">
                                                     <img class="media__image img-responsive" src="images/bod/Archana Ghare.png">
@@ -434,12 +448,13 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div><!--row-->
+                                        </div>
+                                        <!--row-->
 
 
 
 
-                                         <div class="row">
+                                        <div class="row">
 
                                             <div class="col-md-3 ">
                                                 <div class="media">
@@ -468,8 +483,9 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div><!--row-->
-                                         <div class="row">
+                                        </div>
+                                        <!--row-->
+                                        <div class="row">
 
                                             <div class="col-md-3 ">
                                                 <div class="media">
@@ -498,8 +514,9 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div><!--row-->
-                                         <div class="row">
+                                        </div>
+                                        <!--row-->
+                                        <div class="row">
 
                                             <div class="col-md-3 ">
                                                 <div class="media">
@@ -528,8 +545,9 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div><!--row-->
-                                         <div class="row">
+                                        </div>
+                                        <!--row-->
+                                        <div class="row">
 
                                             <div class="col-md-3 ">
                                                 <div class="media">
@@ -558,8 +576,9 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div><!--row-->
-                                         <div class="row">
+                                        </div>
+                                        <!--row-->
+                                        <div class="row">
 
                                             <div class="col-md-3 ">
                                                 <div class="media">
@@ -588,36 +607,40 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div><!--row-->
-                                         <div class="row">
+                                        </div>
+                                        <!--row-->
+                                        <div class="row">
 
                                             <div class="col-md-3 ">
                                                 <div class="media">
                                                     <img class="media__image img-responsive" src="">
                                                     <div class="media__body">
                                                         <h2>Shri. Aanand Katke</h2>
-                                                        <p>District Deputy Registrar of Co-operative Societies,<br />Pune(Goverment Representative)</p>
+                                                        <p>District Deputy Registrar of Co-operative Societies,<br />
+                                                            Pune(Goverment Representative)</p>
                                                     </div>
                                                 </div>
                                             </div>
-                                         
-                                        </div><!--row-->
+
+                                        </div>
+                                        <!--row-->
                                     </div>
-                                   <!-- container -->
+                                    <!-- container -->
+
                                 </section>
-                                  
+
                             </div>
                             <!-- tab2 close-->
-                        <div role="tabpanel" class="tab-pane" id="tab3">
-                                                            <h2 class="w3ls_head" style="padding-bottom:2px;"><span></span>MANAGEMENT </h2> 
-                                 <section id="bod">
-                                    <div class="container" >
+                            <div role="tabpanel" class="tab-pane" id="tab3">
+                                <h2 class="w3ls_head" style="padding-bottom: 2px;"><span></span>MANAGEMENT </h2>
+                                <section id="bod">
+                                    <div class="container">
                                         <div class="row">
                                             <div class="col-md-3 ">
-                                                <div class="media" >
+                                                <div class="media">
                                                     <img class="media__image img-responsive" src="images/bod/ramesh_thorat.jpg">
                                                     <div class="media__body">
-                                                        
+
                                                         <h2>Shri. Ramesh Thorat</h2>
                                                         <p>Chairman</p>
                                                     </div>
@@ -691,12 +714,13 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div><!--row-->
+                                        </div>
+                                        <!--row-->
 
 
 
 
-                                         <div class="row">
+                                        <div class="row">
 
                                             <div class="col-md-3 ">
                                                 <div class="media">
@@ -725,8 +749,9 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div><!--row-->
-                                         <div class="row">
+                                        </div>
+                                        <!--row-->
+                                        <div class="row">
 
                                             <div class="col-md-3 ">
                                                 <div class="media">
@@ -755,8 +780,9 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div><!--row-->
-                                         <div class="row">
+                                        </div>
+                                        <!--row-->
+                                        <div class="row">
 
                                             <div class="col-md-3 ">
                                                 <div class="media">
@@ -785,8 +811,9 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div><!--row-->
-                                         <div class="row">
+                                        </div>
+                                        <!--row-->
+                                        <div class="row">
 
                                             <div class="col-md-3 ">
                                                 <div class="media">
@@ -815,8 +842,9 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div><!--row-->
-                                         <div class="row">
+                                        </div>
+                                        <!--row-->
+                                        <div class="row">
 
                                             <div class="col-md-3 ">
                                                 <div class="media">
@@ -845,34 +873,37 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div><!--row-->
-                                         <div class="row">
+                                        </div>
+                                        <!--row-->
+                                        <div class="row">
 
                                             <div class="col-md-3 ">
                                                 <div class="media">
                                                     <img class="media__image img-responsive" src="">
                                                     <div class="media__body">
                                                         <h2>Shri. Aanand Katke</h2>
-                                                        <p>District Deputy Registrar of Co-operative Societies,<br />Pune(Goverment Representative)</p>
+                                                        <p>District Deputy Registrar of Co-operative Societies,<br />
+                                                            Pune(Goverment Representative)</p>
                                                     </div>
                                                 </div>
                                             </div>
-                                         
-                                        </div><!--row-->
+
+                                        </div>
+                                        <!--row-->
                                     </div>
-                                   <!-- container -->
+                                    <!-- container -->
                                 </section>
-                        </div><!-- tab3 close-->
-                        <div role="tabpanel" class="tab-pane" id="tab4">
-                          <h2 class="w3ls_head" style="padding-bottom:2px;"><span>ANNUAL </span> REPORT </h2> 
-                            <iframe src="2017_annualreport.aspx" style="height:500px;width:700px;"></iframe>
+                            </div>
+                            <!-- tab3 close-->
+                            <div role="tabpanel" class="tab-pane" id="tab4">
+                                <h2 class="w3ls_head" style="padding-bottom: 2px;"><span>ANNUAL </span>REPORT </h2>
+                                <iframe src="2017_annualreport.aspx" style="height: 500px; width: 700px;"></iframe>
+                            </div>
                         </div>
                     </div>
                 </div>
+
             </div>
-
-        </div>
-
     </section>
 
 
@@ -897,7 +928,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
 
 
         });
-       
+
     </script>
 
     <!-- //stats -->
