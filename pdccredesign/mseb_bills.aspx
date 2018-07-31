@@ -13,7 +13,7 @@
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
 		<link rel="shortcut icon" href="images/logotransparent.png"/>
 <!-- //for-mobile-apps -->
-<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+ 
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/style1.css" rel="stylesheet" type="text/css"/>
    <!-- newfile -->
@@ -75,9 +75,7 @@
         <script src="A_js/plugins.js"></script>
         <script src="A_js/jquery.counterup.min.js"></script>
         <script src="A_js/jquery.waypoints.min.js"></script>
-        <script src="A_js/jquery.nicescroll.min.js"></script>
-        <script src="A_js/wow.min.js"></script>
-        <script>new WOW().init();</script>  
+       
 
 
     
@@ -85,5 +83,8 @@
 </body>
  
 </html>
+<<<<<<< HEAD
 
   
+=======
+>>>>>>> 65d5c3dbc7335470f0ac69a26d5218d56a24c544

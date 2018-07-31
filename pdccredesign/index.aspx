@@ -231,7 +231,20 @@
 <!-- //stats -->
 
 
-<foot:Footer runat="server" ID="footer1" />
+
+
+    <div class="scrollup">
+            <a href="#"><i class="fa fa-chevron-up"></i></a>
+        </div>
+
+      
+
+  
+
+       
+    
+ <foot:Footer runat="server" ID="footer1" />
+
 </body>
  
 </html>
