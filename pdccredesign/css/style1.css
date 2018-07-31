@@ -189,7 +189,10 @@ header .navbar {
 .navbar-toggle:hover .icon-bar {
   background: #80d6a3;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> b1d62cdbf0c8afdc714e4fc897a7e62d37f20539
 .menu a {
   color: #333;
   transition: 0.3s;
@@ -1008,11 +1011,31 @@ footer p {
 /* =====================
   ranjana
    ===================== */
+<<<<<<< HEAD
 
 
 
 
 /* =====================
+=======
+#blog {
+    background: #fff;
+    border-top: 1px solid #ABAAA5;
+    border-bottom: 1px solid #ABAAA5;
+   
+}
+.block {
+    border: 1px solid #EFBC40;
+    box-shadow: #EFBC40 1px 2px inset;
+    height: 600px;
+   padding:5px;
+}
+    .block img {
+        height: 250px;
+        width: 400px;
+    }
+    /* =====================
+>>>>>>> b1d62cdbf0c8afdc714e4fc897a7e62d37f20539
   ranjana
    ===================== */
 
@@ -1025,7 +1048,11 @@ footer p {
 }
 
 #blog-left .block{
+<<<<<<< HEAD
       margin: 5.5% 0 ;
+=======
+      margin: 5.5% 10px ;
+>>>>>>> b1d62cdbf0c8afdc714e4fc897a7e62d37f20539
 }
 
 #blog-left .block span{
@@ -1398,6 +1425,9 @@ footer p {
   -webkit-transition-timing-function: ease-in-out;
 }
 
+<<<<<<< HEAD
 /* AZ css*/
+=======
+>>>>>>> b1d62cdbf0c8afdc714e4fc897a7e62d37f20539
 
 
