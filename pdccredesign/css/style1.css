@@ -30,6 +30,7 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+
 h1 {
   font-size: 48px;
 }
@@ -191,7 +192,7 @@ header .navbar {
 <<<<<<< HEAD
 
 =======
->>>>>>> c0c526b9b75a11816c1ab381eed3069e38f58095
+>>>>>>> b1d62cdbf0c8afdc714e4fc897a7e62d37f20539
 .menu a {
   color: #333;
   transition: 0.3s;
@@ -1010,6 +1011,13 @@ footer p {
 /* =====================
   ranjana
    ===================== */
+<<<<<<< HEAD
+
+
+
+
+/* =====================
+=======
 #blog {
     background: #fff;
     border-top: 1px solid #ABAAA5;
@@ -1019,18 +1027,20 @@ footer p {
 .block {
     border: 1px solid #EFBC40;
     box-shadow: #EFBC40 1px 2px inset;
-    height: 400px;
-    
+    height: 600px;
+   padding:5px;
 }
     .block img {
         height: 250px;
         width: 400px;
     }
     /* =====================
+>>>>>>> b1d62cdbf0c8afdc714e4fc897a7e62d37f20539
   ranjana
    ===================== */
-    #blog-left {
-    padding: 130px 0;
+
+#blog-left{
+  padding: 130px 0;
 }
 
 #blog-left .blog-img .col-md-12{
@@ -1038,7 +1048,11 @@ footer p {
 }
 
 #blog-left .block{
-      margin: 5.5% 5px ;
+<<<<<<< HEAD
+      margin: 5.5% 0 ;
+=======
+      margin: 5.5% 10px ;
+>>>>>>> b1d62cdbf0c8afdc714e4fc897a7e62d37f20539
 }
 
 #blog-left .block span{
@@ -1411,20 +1425,9 @@ footer p {
   -webkit-transition-timing-function: ease-in-out;
 }
 
+<<<<<<< HEAD
 /* AZ css*/
-hr {
-    color: yellow;
-    display: block;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-    margin-left: auto;
-    margin-right: auto;
-    border-style: inset;
-    border-width: 1px;
-    
-}
-#az {
-    border: 1px solid yellow;
-}
+=======
+>>>>>>> b1d62cdbf0c8afdc714e4fc897a7e62d37f20539
 
 
