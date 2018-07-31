@@ -1,4 +1,5 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="car_loan.aspx.cs" Inherits="car_loan" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="direct_loan.aspx.cs" Inherits="direct_loan" %>
+
 
 <!DOCTYPE html>
 <%@ Register Src="~/header.ascx" TagPrefix="head" TagName="Header" %>
@@ -41,45 +42,52 @@
    <head:Header runat="server" ID="header1" />
    
     <!--====================================================
-                  VEHICLE LOAN
+                  DIRECT LOAN
 ======================================================--> 
     <div class="services-bottom">
 		<div class="container">
-			<h3 class="w3ls_head"><span>Vehicle </span> Loan</h3>
-            <p style="color:#fff;font-size:18px;text-align:center;">Pdcc Bank offers a range of agriculture loans. </p>
-			<p style="color:#fff;font-size:18px;text-align:center;">Pdcc Bank offers uniquely tailored Car Loan products that take the pain and hassle out of buying a car.</p> 
-			<p style="padding-bottom:20px;color:#fff;font-size:18px;text-align:center;">Flexible, transparent, quick, and cost-effective, our Car Loans put the joy back into owning a car.</p>
+			<h3 class="w3ls_head"><span>Direct </span> Loan</h3>
+            <p style="color:#fff;font-size:18px;text-align:center;">Pdcc Bank offers a range of agriculture loans.  </p>
+            <p style="color:#fff;font-size:18px;text-align:center;">For many farmers just starting out, access to credit is a make-or-break issue that will largely determine whether or not they decide to pursue a successful career in agriculture. 	</p>
+            <p style="color:#fff;font-size:18px;text-align:center;">Direct and guaranteed farm loans provide a crucial source of capital for beginning farmers and others not well served by commercial credit. 	</p>
+				<p style="padding-bottom:20px;color:#fff;font-size:18px;text-align:center;">Launching the next generation of farmers requires a commitment to providing capital for the purchase of farmland, equipment, and other necessities required to start a successful farm business.</p> 
+				
+            
             <p style="padding-bottom:20px;text-align:center;"><a href="loan_form.aspx" class="btn btn-buy">Apply Online</a></p>
 			<div class="ser-agile-w3l">
 			<div class="col-md-4 services_bottom_grid_left">
-				<div class='bar_group' style="padding:15px;background:#F1F1F1;height:250px; width:300px;">
+				<div class='bar_group' style="padding:15px;background:#F1F1F1;height:350px; width:300px;">
                     <h3>BENEFITS</h3>
                     <br />
 					 <ul>
 								
 								<li style="color:#2B2525;">- Simplified documentation. </li>
 								<li style="color:#2B2525;">- Easy and convenient loan.</li>
+								
 								<li style="color:#2B2525;">- Quick processing.</li>
+								<li style="color:#2B2525;">- You can get finance for both your capital outlay and initial production costs.</li>
+								
 							</ul> 
 				</div>
 			</div>
 			<div class="col-md-4 services_bottom_grid_left">
-				<div class='bar_group' style="padding:15px;background:#F1F1F1;height:250px; width:300px;">
+				<div class='bar_group' style="padding:15px;background:#F1F1F1;height:350px; width:300px;">
                     <h3>DOCUMENTS REQUIRED</h3>
                     <br />
-					<ul>		<li style="color:#2B2525;">- Aadhar card.</li>
-								<li style="color:#2B2525;">- Quotation for Particular Vehicle.</li>
+					<ul>
+								<li style="color:#2B2525;">- Land Extracts.</li>
+								<li style="color:#2B2525;">- Aadhar card.</li>
+                                <li style="color:#2B2525;">- You need to supply business plans, budgets and cash flow forecasts to support the loan application and to substantiate the loan amount required.</li>
 								<li style="color:#2B2525;">- Any other documents required by the Bank.</li>
-								
 								
 							</ul>
 				</div>
 			</div>
             <div class="col-md-4 services_bottom_grid_left">
-				<div class='bar_group' style="padding:15px;background:#F1F1F1;height:250px; width:300px;">
+				<div class='bar_group' style="padding:15px;background:#F1F1F1;height:350px; width:300px;">
                     <h3>TERMS AND CONDITIONS</h3>
                     <br />
-					<ul>
+					        <ul>
 								<li style="color:#2B2525;">- Terms and conditions of the scheme are subject to revision, for details contact nearest branch.</li>
 								
 							</ul>
@@ -97,5 +105,4 @@
 </body>
  
 </html>
-
 
