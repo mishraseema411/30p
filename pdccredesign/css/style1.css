@@ -30,7 +30,6 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-
 h1 {
   font-size: 48px;
 }
@@ -189,7 +188,10 @@ header .navbar {
 .navbar-toggle:hover .icon-bar {
   background: #80d6a3;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> c0c526b9b75a11816c1ab381eed3069e38f58095
 .menu a {
   color: #333;
   transition: 0.3s;
@@ -1008,16 +1010,27 @@ footer p {
 /* =====================
   ranjana
    ===================== */
-
-
-
-
-/* =====================
+#blog {
+    background: #fff;
+    border-top: 1px solid #ABAAA5;
+    border-bottom: 1px solid #ABAAA5;
+   
+}
+.block {
+    border: 1px solid #EFBC40;
+    box-shadow: #EFBC40 1px 2px inset;
+    height: 400px;
+    
+}
+    .block img {
+        height: 250px;
+        width: 400px;
+    }
+    /* =====================
   ranjana
    ===================== */
-
-#blog-left{
-  padding: 130px 0;
+    #blog-left {
+    padding: 130px 0;
 }
 
 #blog-left .blog-img .col-md-12{
@@ -1025,7 +1038,7 @@ footer p {
 }
 
 #blog-left .block{
-      margin: 5.5% 0 ;
+      margin: 5.5% 5px ;
 }
 
 #blog-left .block span{

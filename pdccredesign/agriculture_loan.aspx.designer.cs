@@ -10,7 +10,7 @@
 namespace pdcc30 {
     
     
-    public partial class loan {
+    public partial class agriculture_loan {
         
         /// <summary>
         /// header1 control.

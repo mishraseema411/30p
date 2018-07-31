@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="pdccredesign.index" %>
 
 <!DOCTYPE html>
@@ -31,3 +32,20 @@
 </head>
 <body>
     <head:Header runat="server" ID="header1" />
+=======
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="calculate.aspx.cs" Inherits="calculate" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+        </div>
+    </form>
+</body>
+</html>
+>>>>>>> c0c526b9b75a11816c1ab381eed3069e38f58095
