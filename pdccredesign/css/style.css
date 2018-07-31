@@ -178,7 +178,9 @@ a.w3_agile_vimeo:hover{
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
     color:#E9AB19;
 }
-.nav > li > a,.agile_short_dropdown li a {
+.nav > li > a,.agile_short_dropdown li a {    top: 10px;
+    left: -24px;
+    margin-top: 0px;
 }
 .w3_agile_login{
 	float:right;
