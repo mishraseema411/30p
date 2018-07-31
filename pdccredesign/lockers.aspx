@@ -347,7 +347,7 @@
         <script src="js_1/main.js"></script>
 
 
-
+    <foot:Footer runat="server" ID="footer1" />
 
 </body>
 </html>
