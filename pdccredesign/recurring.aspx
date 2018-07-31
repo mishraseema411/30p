@@ -39,9 +39,9 @@
     <!-- Introduction -->
     <div class="container">
         <div class="agileits-title">
-            <h2 class="w3ls_head"><span>Savings</span>ACCOUNT</h2>
+            <h2 class="w3ls_head"><span>RECURRING</span>DEPOSITS</h2>
         </div>
-        <a href="#" data-toggle="modal" data-target="#myModal">Accounts And Deposits</a> > <a href="#" data-toggle="modal" data-target="#myModal">Accounts</a> > <a href="#" data-toggle="modal" data-target="#myModal">Savings Account</a>
+        <a href="#" >Accounts And Deposits</a> > <a href="#" >Deposit</a> > <a href="#">Recurring Deposits</a>
       <br>
         <div class="contact agileits" id="az">
             <div class="container">
@@ -50,16 +50,12 @@
                 </div>
                 <div class="contact-agileinfo">
                 <div class="col-md-7 contact-form wthree">
-                    <h5>PDCC Bank has the right Savings Account for everyone! Choose from a array of savings accounts to find one that matches your needs.</h5>
+                    <h5>PDCC Bank's Recurring Deposit scheme will allow you with an opportunity to build up your savings through regular monthly deposits of fixed sum over a fixed period of time. .</h5>
                     <br>
-                    <h5>You can avail of basic banking services with this account, and experience banking with us in an easy and hassle-free manner. </h5>
+                    <h5>For a much smaller investment per month, get interest rates equal to that of regular Fixed Deposits. </h5>
                     <br>
-                    <h5>For people who like things simple, we offer the savings account, low maintenance, easy solution for all your banking needs. </h5>
-                    <br>
-                    <h5>To enjoy all these benefits, just open a savings account with any branch of our bank.</h5>
-                    <br>
-                    <div class="agileits_w3layouts_more">
-                        <a href="#" data-toggle="modal" data-target="#myModal">Appy Online</a>
+                   <div class="agileits_w3layouts_more">
+                        <a href="#">Download Form</a>
                     </div>
                 </div>
                 <div class="col-md-4 contact-right wthree">
@@ -84,17 +80,16 @@
                     <div class="grid_3 grid_4 w3layouts">
                     <h3 class="hdg">Benefits</h3>
                 </div>
-                    <h5>* We offer a variety of accounts, each tailored to your savings needs..</h5>
+                    <h5>* An investment as small as Rs. 1000 (and in multiples of Rs. 100 thereafter) or as large as Rs. 14,99,900 per month.</h5>
                     <br>
-                    <h5>* SMS Alerts.. </h5>
+                    <h5>*TDS is not applicable on the Interest earned by Recurring Deposits as per current income tax rules..</h5>
                     <br>
-                    <h5>* Easy to monitor account activity Passbook.. </h5>
+                    <h5>* Loan against deposit. </h5>
                     <br>
-                    <h5>* Rupay Debit card with Annual Fee..</h5>
+                    <h5>* High rates of interest (identical to the fixed deposit rates)..</h5>
                     <br>
-                    <h5>*4 Free withdrawal transactions (Includes Branch Cash and PDCC/Other ATM cash withdrawal transactions).</h5>
-                    <br>
-                  <h5>  To enjoy all these benefits, just open a savings account with any branch of our bank.</h5>
+                    <h5>*Nomination facility available.</h5>
+                    <br />
                   
                 </div>
                 </div>
@@ -112,14 +107,15 @@
                 </div>
                 <div class="contact-agileinfo">
                 <div class="col-md-7 contact-form wthree">
-                    <h5> * Application form (Download from Above).</h5>
-                    <br>
-                    <h5>* To open a Savings Account, applicants must provide: Two latest passport size photographs. </h5>
+                    <h5> *Application form (Download from Above)).</h5>
                     <br>
                     <h5>* Proof of Identity: PAN Card, Voter Id Card, Passport, Driving License. </h5>
                     <br>
-                    <h5>* Proof of Address: Latest Telephone Bill or Electricity Bill</h5>
+                    <h5>* Proof of Address: Latest Telephone Bill or Electricity Bill. </h5>
                     <br>
+                    <h5>* Recent Colour Photograph(3 Nos.)</h5>
+                    <br>
+                    <h5>PAN or Form 60/61 if applied for PAN</h5>
                     
                 </div>
                 <div class="col-md-4 contact-right wthree">
@@ -145,14 +141,13 @@
                     <div class="grid_3 grid_4 w3layouts">
                     <h3 class="hdg">Terms and Conditions</h3>
                 </div>
-                    <h5>* The aggregate of all withdrawals and transfers in a day should not exceed Rs. 10,000/- .</h5>
+                    <h5>* Rate of interest as applicable to Banks TDR / STDR for the period of the RD</h5>
                     <br>
-                    <h5>* All banking transactions are chargeable at normal charges as published from time-to-time. </h5>
+                    <h5>* Penalty charges for non-Deposit of monthly installments. </h5>
                     <br>
-                    <h5>* Any government charges, duties or taxes devolving from the provision of any of the facilities shall, if imposed upon the Bank (either directly or indirectly), be debited from the customer's account. </h5>
+                    <h5>*Any government charges, duties or taxes devolving from the provision of any of the facilities shall, if imposed upon the Bank (either directly or indirectly), be debited from the customer's account. < 1Cr.. </h5>
                     <br>
-                    <h5>* To enjoy all these benefits, just open a savings account with any branch of our bank.</h5>
-                    <br>
+                    
                     
                 </div>
                 </div>

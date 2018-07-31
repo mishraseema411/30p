@@ -47,7 +47,7 @@
 					<h4>SAVINGS ACCOUNT</h4>
 					<p>Savings Account is primarily meant to inculcate a sense of saving for your future financial requirements. The main objective is to save in small or large amount from time to time.</p>
 					<div class="agileits_w3layouts_more">
-				    <a href="saving.aspx" data-toggle="modal" data-target="#myModal">Read More</a> <a href="#" data-toggle="modal" data-target="#myModal">Apply Online</a>
+				    <a href="saving.aspx">Read More</a> <a href="#">Apply Online</a>
 				    </div>
 				</div>
 				<div class="col-md-6 services-grids top-1">
@@ -55,7 +55,7 @@
 					<h4>Current Account</h4>
 					<p>PDCC Bank provides flexibility to the customers by providing Current Account scheme. Current accounts at PDCC Bank provide the convenience to the customers of safety & security of their deposits in addition to quick access to their funds.</p>
 				    <div class="agileits_w3layouts_more">
-				    <a href="saving.aspx" data-toggle="modal" data-target="#myModal">Read More</a><a href="#" data-toggle="modal" data-target="#myModal">Apply Online</a>
+				    <a href="current.aspx">Read More</a><a href="#">Apply Online</a>
 				    </div>
 					
 				</div>
@@ -64,7 +64,7 @@
 					<h4>Calculate</h4>
 					<p>LOAN CALCULATOR.</p>
 				    <div class="agileits_w3layouts_more">
-				    <a href="#" data-toggle="modal" data-target="#myModal">Read More</a>
+				    <a href="#">Read More</a>
 				    </div>
 					
 				</div> 
@@ -82,7 +82,17 @@
 		<script>
 			$('.counter').countUp();
 		</script>
+    <script src="js/jquery-1.11.3.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		
 
+
+		<script src="js/owl.carousel.min.js"></script>
+		<script src="js/html5lightbox.js"></script>
+		<script src="js/jquery.mixitup.js"></script>
+
+	
+		<script src="js/main.js"></script>
 <foot:Footer runat="server" ID="footer1" />
 </body>
  

@@ -11,13 +11,12 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
     <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
-		function hideURLbar(){ window.scrollTo(0,1); } </script>
+		function hideURLbar(){ window.scrollTo(0,1); } </scrip
     <link rel="shortcut icon" href="img/logopdcc.png" />
     <!-- //for-mobile-apps -->
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
     <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
     <link href="css/style1.css" rel="stylesheet" type="text/css" />
-    <link href="css/style3.css" rel="stylesheet" type="text/css" />
     <!-- js -->
     <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
     <script src="js/main.js"></script>
@@ -39,20 +38,20 @@
     <!-- Introduction -->
     <div class="container">
         <div class="agileits-title">
-            <h2 class="w3ls_head"><span>Savings</span>ACCOUNT</h2>
+            <h2 class="w3ls_head"><span>CURRENT</span>ACCOUNT</h2>
         </div>
-        <a href="#" data-toggle="modal" data-target="#myModal">Accounts And Deposits</a> > <a href="#" data-toggle="modal" data-target="#myModal">Accounts</a> > <a href="#" data-toggle="modal" data-target="#myModal">Savings Account</a>
+        <a href="#" data-toggle="modal" data-target="#myModal">Accounts And Deposits</a> > <a href="#" data-toggle="modal" data-target="#myModal">Accounts</a> > <a href="#" data-toggle="modal" data-target="#myModal">Current Account</a>
       <br>
-        <div class="contact agileits" id="az">
+        <div class="contact agileits"id="az">
             <div class="container">
                 <div class="grid_3 grid_4 w3layouts">
                     <h3 class="hdg">Introduction</h3>
                 </div>
                 <div class="contact-agileinfo">
                 <div class="col-md-7 contact-form wthree">
-                    <h5>PDCC Bank has the right Savings Account for everyone! Choose from a array of savings accounts to find one that matches your needs.</h5>
+                    <h5>PDCC Bank Business Banking offers comprehensive banking solutions to suit the banking needs of every MSME.</h5>
                     <br>
-                    <h5>You can avail of basic banking services with this account, and experience banking with us in an easy and hassle-free manner. </h5>
+                    <h5>From a wide range of Current Account products to convenient banking solutions like Internet Banking, Mobile Banking and Tax Payments we make your banking easy and hassle free. </h5>
                     <br>
                     <h5>For people who like things simple, we offer the savings account, low maintenance, easy solution for all your banking needs. </h5>
                     <br>
@@ -63,7 +62,7 @@
                     </div>
                 </div>
                 <div class="col-md-4 contact-right wthree">
-                    <img src="images/saving.jpg" width="400" height="350" id="az_image">
+                    <img src="images/saving.jpg" width="400" height="350">
                     </div>
                 </div>
                 <div class="clearfix"></div>
@@ -84,18 +83,25 @@
                     <div class="grid_3 grid_4 w3layouts">
                     <h3 class="hdg">Benefits</h3>
                 </div>
-                    <h5>* We offer a variety of accounts, each tailored to your savings needs..</h5>
+                    <h5>* Current bank accounts are operated to run a business.</h5>
                     <br>
-                    <h5>* SMS Alerts.. </h5>
+                    <h5>* SMS Alerts. </h5>
                     <br>
-                    <h5>* Easy to monitor account activity Passbook.. </h5>
+                    <h5>* It is a non-interest bearing bank account. </h5>
                     <br>
-                    <h5>* Rupay Debit card with Annual Fee..</h5>
+                    <h5>* It needs a higher minimum balance to be maintained as compared to the savings account.</h5>
                     <br>
-                    <h5>*4 Free withdrawal transactions (Includes Branch Cash and PDCC/Other ATM cash withdrawal transactions).</h5>
+                    <h5>* Penalty is charged if minimum balance is not maintained in the current account..</h5>
                     <br>
-                  <h5>  To enjoy all these benefits, just open a savings account with any branch of our bank.</h5>
-                  
+                  <h5>  * It charges interest on the short-term funds borrowed from the bank..</h5>
+                  <br>
+                     <h5> * The main objective of current bank account is to enable the businessmen to conduct their business transactions smoothly.</h5>
+                  <br>
+                    <h5> * There is no restriction on the number and amount of deposits.</h5>
+                  <br>
+                     <h5>  *Interest on current accounts</h5>
+                  <br>
+
                 </div>
                 </div>
                 <div class="clearfix"></div>
@@ -114,11 +120,13 @@
                 <div class="col-md-7 contact-form wthree">
                     <h5> * Application form (Download from Above).</h5>
                     <br>
-                    <h5>* To open a Savings Account, applicants must provide: Two latest passport size photographs. </h5>
-                    <br>
                     <h5>* Proof of Identity: PAN Card, Voter Id Card, Passport, Driving License. </h5>
                     <br>
-                    <h5>* Proof of Address: Latest Telephone Bill or Electricity Bill</h5>
+                    <h5>* Proof of Address: Latest Telephone Bill or Electricity Bill. </h5>
+                    <br>
+                    <h5>* Recent Color Photograph(3 Nos.)</h5>
+                    <br>
+                    <h5>* PAN or Form 60/61 if applied for PAN</h5>
                     <br>
                     
                 </div>
@@ -136,22 +144,22 @@
     <div class="container">
         <div class="contact agileits"id="az">
             <div class="container">
+                
                 <div class="col-md-4 contact-right wthree">
                     <img src="images/terms.jpg" width="300" height="350">
                     </div>
-                
                 <div class="contact-agileinfo">
                 <div class="col-md-7 contact-form wthree">
                     <div class="grid_3 grid_4 w3layouts">
                     <h3 class="hdg">Terms and Conditions</h3>
                 </div>
-                    <h5>* The aggregate of all withdrawals and transfers in a day should not exceed Rs. 10,000/- .</h5>
+                    <h5>* Any other identity, address, entity, document can be accepted subject to the bank's satisfaction..</h5>
                     <br>
-                    <h5>* All banking transactions are chargeable at normal charges as published from time-to-time. </h5>
+                    <h5>* KYC documents should be valid on the date of submission.. </h5>
                     <br>
-                    <h5>* Any government charges, duties or taxes devolving from the provision of any of the facilities shall, if imposed upon the Bank (either directly or indirectly), be debited from the customer's account. </h5>
+                    <h5>*The above are the Indicative list of KYC documents and are subject to change as per regulatory guidelines and internal KYC Circulars of PDCC Bank.. </h5>
                     <br>
-                    <h5>* To enjoy all these benefits, just open a savings account with any branch of our bank.</h5>
+                    <h5>* For more information, please visit our nearest PDCC Bank branch..</h5>
                     <br>
                     
                 </div>

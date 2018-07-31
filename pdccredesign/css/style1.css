@@ -189,10 +189,7 @@ header .navbar {
 .navbar-toggle:hover .icon-bar {
   background: #80d6a3;
 }
-#az {
-    border: 1px solid yellow;
-    
-}
+
 .menu a {
   color: #333;
   transition: 0.3s;
@@ -1401,5 +1398,20 @@ footer p {
   -webkit-transition-timing-function: ease-in-out;
 }
 
+/* AZ css*/
+hr {
+    color: yellow;
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    
+}
+#az {
+    border: 1px solid yellow;
+}
 
 
