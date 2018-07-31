@@ -33,7 +33,20 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <style>
+  
+</head>
+<body>
+     <head:Header runat="server" ID="header1" />
+  
+    <div class="container">
+<div class="agileits-title">
+   <h3 class="w3ls_head"><span>Ten</span>ders</h3>
+    </div>
+        </div>
+
+
+    <!--Online form-->
+<style>
      button.accordion {
     background-color: #eee;
     color: #444;
@@ -80,34 +93,51 @@ div.panel.show {
     display:inline-block;
     padding:0 20px;
 }
-      h3 {
-      color:yellow;}
-      
   </style>
 </head>
 <body>
-     <head:Header runat="server" ID="header1" />
-  
-    <div class="container">
-<div class="agileits-title">
-   <h3 class="w3ls_head"><span>Ten</span>ders</h3>
-    </div>
-        </div>
-<%--<p>In this example we have added a "plus" sign to each button. When the user clicks on the button, the "plus" sign is replaced with a "minus" sign.</p>--%>
-<button class="accordion">Section 1</button>
+
+
+<button class="accordion" style= "font-size: 20px;font-weight: bold;"><u>Tender Details - HO Third Floor</u><img style="margin-top:-5px;margin-left:5px" src="images/Account/new.gif" ></button>
 <div class="panel">
-  <p>Opening Date <br />12/11/20116</p><p>Closing Date <br />18/11/20116</p><p>Department<br />Department name</p><br /><p>Download<br /><a class="text-center btn btn-primary" href="#">Click  here</a></p>
+  <br />
+  <p>Download<br /><a  target="_blank" class="text-center btn btn-primary" href="#" >Click  here</a></p>
 </div>
 
-<button class="accordion">Section 2</button>
+<button class="accordion" style="font-size: 20px;font-weight: bold;"><u>Tender Details - Goods & Stationary</u><img style="margin-top:-5px;margin-left:5px" src="images/Account/new.gif"></button>
 <div class="panel">
-  <p>Opening Date <br />12/11/20116</p><p>Closing Date <br />18/11/20116</p><p>Department<br />Department name</p><br /><p>Download<br /><a class="text-center btn btn-primary" href="#">Click  here</a></p>
+  <br />
+  <p>Download<br /><a  target="_blank" class="text-center btn btn-primary" href="#" >Click  here</a></p>
 </div>
 
-<button class="accordion">Section 3</button>
-<div id="foo" class="panel">
-  <p>Opening Date <br />12/11/20116</p><p>Closing Date <br />18/11/20116</p><p>Department<br />Department name</p><br /><p>Download<br /><a class="text-center btn btn-primary" href="#">Click  here</a></p>
+<button class="accordion" style="font-size: 20px;font-weight: bold;"><u>Bhigwan Branch Tender Notice</u><img style="margin-top:-5px;margin-left:5px" src="images/Account/new.gif""></button>
+<div class="panel">
+  <p>Opening Date <br /><b>07/07/2018</b></p><p>Closing Date <br /><b>13/07/2018</b></p><br /><p>Download<br /><a  target="_blank" class="text-center btn btn-primary" href="#" >Click  here</a></p>
 </div>
+
+
+<button class="accordion" style="font-size: 20px;font-weight: bold;"><u>Indapur Branch Interior Tender Notice</u></button>
+<div class="panel">
+  <p>Opening Date <br /><b><u>25</u></b>/05/2018</p><p>Closing Date <br /><b><u>31</u></b>/05/2018</p><br /><p>Download<br /><a  target="_blank" class="text-center btn btn-primary" href="#" >Click  here</a></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <script>
     var acc = document.getElementsByClassName("accordion");
     var i;
@@ -120,5 +150,26 @@ div.panel.show {
     }
 </script>
  
+
+  <!-- stats -->
+        <script src="js/jquery.waypoints.min.js"></script>
+        <script src="js/jquery.countup.js"></script>
+        <script>
+            $('.counter').countUp();
+        </script>
+    <script src="js/jquery-1.11.3.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		
+
+
+		<script src="js/owl.carousel.min.js"></script>
+		<script src="js/html5lightbox.js"></script>
+		<script src="js/jquery.mixitup.js"></script>
+
+	
+		<script src="js/main.js"></script>
+        <foot:Footer runat="server" ID="footer1" />
 </body>
+
 </html>
+
