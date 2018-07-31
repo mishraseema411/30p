@@ -460,8 +460,7 @@
                 <div class="row">
                     
                    <h2 class="w3ls_head"><span>Non Agriculture </span> Loan</h2>
-                    <br />
-                    <hr class="hrline" />
+                     <hr class="hrline" /><br />
                     <div class="col-md-offset-2 col-md-8">
 						    
                        <h2>(A) INDIVIDUAL LOAN</h2>
@@ -548,7 +547,7 @@
                     
                     <div class="col-md-offset-2 col-md-8">
 						    
-                       <h2>(C) Non Agri Loan</h2>
+                       <h2>(C) Non-Agri Loan</h2>
                         <br />
 
                         <table class="tg" style="undefined;table-layout: fixed; width: 554px">
@@ -736,7 +735,43 @@
 						    
                        <h2>(D) Cash Credit Loan For Agriculture & Non-Agriculture Societies</h2>
                         <br />
-
+                        <table class="tg" style="undefined;table-layout: fixed; width: 554px">
+<colgroup>
+ <col style="width: 50px">
+                            <col style="width: 406px">
+                            <col style="width: 269px">
+</colgroup>
+  <tr>
+    <th class="tg-led6">Sr. No</th>
+    <th class="tg-led6">Loan Type</th>
+    <th class="tg-led6">Interest</th>
+  </tr>
+  <tr>
+    <td class="tg-a5uz">1</td>
+    <td class="tg-w7nn">Clean</td>
+    <td class="tg-w7nn">12.50%</td>
+  </tr>
+  <tr>
+    <td class="tg-a5uz">2</td>
+    <td class="tg-w7nn">Hypothecation</td>
+    <td class="tg-w7nn">12.00%</td>
+  </tr>
+  <tr>
+    <td class="tg-a5uz">3</td>
+    <td class="tg-w7nn">Pledge</td>
+    <td class="tg-w7nn">11.50%</td>
+  </tr>
+  <tr>
+    <td class="tg-a5uz">4</td>
+    <td class="tg-w7nn">Term Loan</td>
+    <td class="tg-w7nn">12.00%</td>
+  </tr>
+  <tr>
+    <td class="tg-a5uz">5</td>
+    <td class="tg-w7nn">Bill Finance</td>
+    <td class="tg-w7nn">12.00%</td>
+  </tr>
+</table>
                         
    
   
@@ -746,9 +781,69 @@
                 <div class="row">
                     <div class="col-md-offset-2 col-md-8">
 						    
-                       <h2>(E) Cash Credit Loan For Agriculture & Non-Agriculture Societies</h2>
+                       <h2>(E) Sugar Factories/Processing Units</h2>
                         <br />
-
+                        <table class="tg" style="undefined;table-layout: fixed; width: 665px">
+ <colgroup><col style="width: 50px">
+                            <col style="width: 406px">
+                            <col style="width: 269px">
+</colgroup>
+  <tr>
+    <th class="tg-led6">Sr. No</th>
+    <th class="tg-led6">Loan Type</th>
+    <th class="tg-led6">Interest</th>
+  </tr>
+  <tr>
+    <td class="tg-a5uz">1</td>
+    <td class="tg-il4a">Pledge</td>
+    <td class="tg-il4a"></td>
+  </tr>
+  <tr>
+    <td class="tg-a5uz"></td>
+    <td class="tg-il4a">For New Season Loans (1 Nov to 30 Jun)</td>
+    <td class="tg-il4a">10.50%</td>
+  </tr>
+  <tr>
+    <td class="tg-a5uz"></td>
+    <td class="tg-il4a">For New Season Loans (1 July to 31 Oct)</td>
+    <td class="tg-il4a">10.75%</td>
+  </tr>
+  <tr>
+    <td class="tg-a5uz"></td>
+    <td class="tg-il4a">For Old Season Loans</td>
+    <td class="tg-il4a">10.75%</td>
+  </tr>
+  <tr>
+    <td class="tg-a5uz">2</td>
+    <td class="tg-il4a">Hypothecation</td>
+    <td class="tg-il4a">13.00%</td>
+  </tr>
+  <tr>
+    <td class="tg-s8ib">3</td>
+    <td class="tg-5elr">Clean (Pre seasonal)</td>
+    <td class="tg-5elr">13.50%</td>
+  </tr>
+  <tr>
+    <td class="tg-s8ib">4</td>
+    <td class="tg-5elr">Medium Term Loan</td>
+    <td class="tg-5elr">12.00%</td>
+  </tr>
+  <tr>
+    <td class="tg-s8ib">5</td>
+    <td class="tg-5elr">Godown Loan</td>
+    <td class="tg-5elr">11.00%</td>
+  </tr>
+  <tr>
+    <td class="tg-s8ib">6</td>
+    <td class="tg-5elr">F.R.P. Loan - 2014</td>
+    <td class="tg-5elr">12.00%</td>
+  </tr>
+  <tr>
+    <td class="tg-s8ib">7</td>
+    <td class="tg-5elr">Soft Loan - 2015</td>
+    <td class="tg-5elr">12.00%</td>
+  </tr>
+</table>
  
    
   
@@ -758,9 +853,31 @@
                 <div class="row">
                     <div class="col-md-offset-2 col-md-8">
 						    
-                       <h2>(F) Cash Credit Loan For Agriculture & Non-Agriculture Societies</h2>
+                       <h2>(F) Salary Earner Societies</h2>
                         <br />
+                       <table class="tg" style="undefined;table-layout: fixed; width: 665px">
+                       <colgroup> <col style="width: 50px">
+                            <col style="width: 406px">
+                            <col style="width: 269px">
+                        </colgroup>
+                          <tr>
+                            <th class="tg-led6">Sr. No</th>
+                            <th class="tg-led6">Loan Type</th>
+                            <th class="tg-led6">Interest</th>
+                          </tr>
+                          <tr>
+                            <td class="tg-a5uz">1</td>
+                            <td class="tg-il4a">Term Loan</td>
+                            <td class="tg-il4a">11.00%</td>
+                          </tr>
+                          <tr>
+                            <td class="tg-a5uz">2</td>
+                            <td class="tg-il4a">Cash Credit</td>
+                            <td class="tg-il4a">11.00%</td>
+                          </tr>
+  
 
+                        </table>
  
    
   
@@ -770,9 +887,81 @@
                 <div class="row">
                     <div class="col-md-offset-2 col-md-8">
 						    
-                       <h2>(G) Cash Credit Loan For Agriculture & Non-Agriculture Societies</h2>
+                       <h2>(G) Urban Credit Co-operative Societies</h2>
                         <br />
 
+                    <table class="tg" style="undefined;table-layout: fixed; width: 665px">
+                       <colgroup> <col style="width: 50px">
+                            <col style="width: 406px">
+                            <col style="width: 269px">
+                        </colgroup>
+                          <tr>
+                            <th class="tg-led6">Sr. No</th>
+                            <th class="tg-led6">Loan Type</th>
+                            <th class="tg-led6">Interest</th>
+                          </tr>
+                          <tr>
+                            <td class="tg-a5uz">1</td>
+                            <td class="tg-il4a">Term Loan</td>
+                            <td class="tg-il4a">12.00%</td>
+                          </tr>
+                         
+                        </table>
+   
+  
+                        <br /><br />
+                     </div>
+                </div><!-- row-->
+                <div class="row">
+                    <div class="col-md-offset-2 col-md-8">
+						    
+                       <h2>(H) Co-operative Banks</h2>
+                        <br />
+
+                        <table class="tg" style="undefined;table-layout: fixed; width: 665px">
+                       <colgroup> <col style="width: 50px">
+                            <col style="width: 406px">
+                            <col style="width: 269px">
+                        </colgroup>
+                          <tr>
+                            <th class="tg-led6">Sr. No</th>
+                            <th class="tg-led6">Loan Type</th>
+                            <th class="tg-led6">Interest</th>
+                          </tr>
+                          <tr>
+                            <td class="tg-a5uz">1</td>
+                            <td class="tg-il4a">Term/Cash Credit Loan</td>
+                            <td class="tg-il4a">11.00%</td>
+                          </tr>
+                         
+                        </table>
+   
+  
+                        <br /><br />
+                     </div>
+                </div><!-- row-->
+                <div class="row">
+                    <div class="col-md-offset-2 col-md-8">
+						    
+                       <h2>(I) Artizen Loan</h2>
+                        <br />
+                        <table class="tg" style="undefined;table-layout: fixed; width: 665px">
+                       <colgroup> <col style="width: 50px">
+                            <col style="width: 406px">
+                            <col style="width: 269px">
+                        </colgroup>
+                          <tr>
+                            <th class="tg-led6">Sr. No</th>
+                            <th class="tg-led6">Loan Type</th>
+                            <th class="tg-led6">Interest</th>
+                          </tr>
+                          <tr>
+                            <td class="tg-a5uz">1</td>
+                            <td class="tg-il4a">Short/Medium Term Loan</td>
+                            <td class="tg-il4a">10.00%</td>
+                          </tr>
+                         
+                        </table>
  
    
   
@@ -782,9 +971,25 @@
                 <div class="row">
                     <div class="col-md-offset-2 col-md-8">
 						    
-                       <h2>(H) Cash Credit Loan For Agriculture & Non-Agriculture Societies</h2>
+                       <h2>(J) Transport Societies</h2>
                         <br />
-
+                        <table class="tg" style="undefined;table-layout: fixed; width: 665px">
+                       <colgroup> <col style="width: 50px">
+                            <col style="width: 406px">
+                            <col style="width: 269px">
+                        </colgroup>
+                          <tr>
+                            <th class="tg-led6">Sr. No</th>
+                            <th class="tg-led6">Loan Type</th>
+                            <th class="tg-led6">Interest</th>
+                          </tr>
+                          <tr>
+                            <td class="tg-a5uz">1</td>
+                            <td class="tg-il4a">Clean/Medium Term Loan</td>
+                            <td class="tg-il4a">12.50%</td>
+                          </tr>
+                         
+                        </table>
  
    
   
@@ -794,9 +999,53 @@
                 <div class="row">
                     <div class="col-md-offset-2 col-md-8">
 						    
-                       <h2>(I) Cash Credit Loan For Agriculture & Non-Agriculture Societies</h2>
+                       <h2>(K) Companies, Societies, Firms Other than Sugar Factories & Co-operative Societies</h2>
                         <br />
 
+                        <table class="tg" style="undefined;table-layout: fixed; width: 665px">
+                       <colgroup> <col style="width: 50px">
+                            <col style="width: 406px">
+                            <col style="width: 269px">
+                        </colgroup>
+                          <tr>
+                            <th class="tg-led6">Sr. No</th>
+                            <th class="tg-led6">Loan Type</th>
+                            <th class="tg-led6">Interest</th>
+                          </tr>
+                          <tr>
+                            <td class="tg-a5uz">1</td>
+                            <td class="tg-il4a">Short/Medium Term Loan</td>
+                            <td class="tg-il4a">12.50%</td>
+                          </tr>
+                         
+                        </table>
+   
+  
+                        <br /><br />
+                     </div>
+                </div><!-- row-->
+                <div class="row">
+                    <div class="col-md-offset-2 col-md-8">
+						    
+                       <h2>(L) Kharedi-Vikri Sangh</h2>
+                        <br />
+                         <table class="tg" style="undefined;table-layout: fixed; width: 665px">
+                       <colgroup> <col style="width: 50px">
+                            <col style="width: 406px">
+                            <col style="width: 269px">
+                        </colgroup>
+                          <tr>
+                            <th class="tg-led6">Sr. No</th>
+                            <th class="tg-led6">Loan Type</th>
+                            <th class="tg-led6">Interest</th>
+                          </tr>
+                          <tr>
+                            <td class="tg-a5uz">1</td>
+                            <td class="tg-il4a">Medium Term Loan</td>
+                            <td class="tg-il4a">11.00%</td>
+                          </tr>
+                         
+                        </table>
  
    
   
@@ -806,9 +1055,60 @@
                 <div class="row">
                     <div class="col-md-offset-2 col-md-8">
 						    
-                       <h2>(J) Cash Credit Loan For Agriculture & Non-Agriculture Societies</h2>
+                       <h2>(M) Individual Loans - Short Term</h2>
                         <br />
-
+                        <table class="tg" style="undefined;table-layout: fixed; width: 665px">
+                    <colgroup>
+                <col style="width: 50px">
+                            <col style="width: 406px">
+                            <col style="width: 269px">
+                    </colgroup>
+  <tr>
+    <th class="tg-led6">Sr.No</th>
+    <th class="tg-led6">Loan Type</th>
+    <th class="tg-led6">Interest</th>
+  </tr>
+  <tr>
+    <td class="tg-a5uz">1</td>
+    <td class="tg-il4a">Gold Loan</td>
+    <td class="tg-il4a">11.00%</td>
+  </tr>
+  <tr>
+    <td class="tg-a5uz">2</td>
+    <td class="tg-il4a">Individual Salary Earner Cash Credit</td>
+    <td class="tg-il4a">11.50%</td>
+  </tr>
+  <tr>
+    <td class="tg-a5uz">3</td>
+    <td class="tg-il4a">Personal Loan (Higher Purchase)</td>
+    <td class="tg-il4a">11.50%</td>
+  </tr>
+  <tr>
+    <td class="tg-a5uz">4</td>
+    <td class="tg-il4a">Educational Loan</td>
+    <td class="tg-il4a">10.25%</td>
+  </tr>
+  <tr>
+    <td class="tg-a5uz">5</td>
+    <td class="tg-il4a">Flat Purchase/Construction Loan</td>
+    <td class="tg-il4a">10.25%</td>
+  </tr>
+  <tr>
+    <td class="tg-s8ib">6</td>
+    <td class="tg-5elr">Cash Credit Loan (Traders)</td>
+    <td class="tg-5elr">12.00%</td>
+  </tr>
+  <tr>
+    <td class="tg-s8ib">7</td>
+    <td class="tg-5elr">Staff Cash Credit</td>
+    <td class="tg-5elr">10.25%</td>
+  </tr>
+  <tr>
+    <td class="tg-s8ib">8</td>
+    <td class="tg-5elr">Overdraft Against National Saving Certificate</td>
+    <td class="tg-5elr">11.50%</td>
+  </tr>
+</table>
  
    
   
@@ -818,10 +1118,31 @@
                 <div class="row">
                     <div class="col-md-offset-2 col-md-8">
 						    
-                       <h2>(K) Cash Credit Loan For Agriculture & Non-Agriculture Societies</h2>
+                       <h2>(N) Self Help Group</h2>
                         <br />
-
- 
+                        <table class="tg" style="undefined;table-layout: fixed; width: 641px">
+<colgroup>
+ <col style="width: 50px">
+                            <col style="width: 406px">
+                            <col style="width: 269px">
+</colgroup>
+  <tr>
+    <th class="tg-led6">Sr.No</th>
+    <th class="tg-led6">Loan Type</th>
+    <th class="tg-led6">Interest</th>
+  </tr>
+  <tr>
+    <td class="tg-a5uz">1</td>
+    <td class="tg-il4a">Loans For Below Poverty Level Groups Under S.G.S.Y. Scheme</td>
+    <td class="tg-il4a">07.00%</td>
+  </tr>
+  <tr>
+    <td class="tg-a5uz">2</td>
+    <td class="tg-il4a">General Loan</td>
+    <td class="tg-il4a">08.00%</td>
+  </tr>
+</table>
+                   
    
   
                         <br /><br />
@@ -830,10 +1151,46 @@
                 <div class="row">
                     <div class="col-md-offset-2 col-md-8">
 						    
-                       <h2>(L) Cash Credit Loan For Agriculture & Non-Agriculture Societies</h2>
+                       <h2>(O) Medium Term Loans</h2>
                         <br />
 
- 
+ <table class="tg" style="undefined;table-layout: fixed; width: 665px">
+<colgroup>
+ <col style="width: 50px">
+                            <col style="width: 406px">
+                            <col style="width: 269px">
+</colgroup>
+  <tr>
+    <th class="tg-led6">Sr.No</th>
+    <th class="tg-led6">Loan Type</th>
+    <th class="tg-led6">Interest</th>
+  </tr>
+  <tr>
+    <td class="tg-a5uz">1</td>
+    <td class="tg-il4a">Two Wheeler Loan</td>
+    <td class="tg-il4a">11.50%</td>
+  </tr>
+  <tr>
+    <td class="tg-a5uz">2</td>
+    <td class="tg-il4a">Educational Loan</td>
+    <td class="tg-il4a">10.25%</td>
+  </tr>
+  <tr>
+    <td class="tg-a5uz">3</td>
+    <td class="tg-il4a">Overdraft Against National Saving Certificate</td>
+    <td class="tg-il4a">12.00%</td>
+  </tr>
+  <tr>
+    <td class="tg-a5uz">4</td>
+    <td class="tg-il4a">Over Draft (Individual/Societies) - 2% More Rate on Fixed Deposits Interest</td>
+    <td class="tg-il4a">-</td>
+  </tr>
+  <tr>
+    <td class="tg-a5uz">5</td>
+    <td class="tg-il4a">Commercial/Personal Vehicle Purchase(3/4 Wheeler)</td>
+    <td class="tg-il4a">11.50%</td>
+  </tr>
+</table>
    
   
                         <br /><br />
@@ -842,10 +1199,46 @@
                 <div class="row">
                     <div class="col-md-offset-2 col-md-8">
 						    
-                       <h2>(M) Cash Credit Loan For Agriculture & Non-Agriculture Societies</h2>
+                       <h2>(P) Non-Farm Sector</h2>
                         <br />
 
- 
+ <table class="tg" style="undefined;table-layout: fixed; width: 665px">
+<colgroup>
+ <col style="width: 50px">
+                            <col style="width: 406px">
+                            <col style="width: 269px">
+</colgroup>
+  <tr>
+    <th class="tg-led6">Sr.No</th>
+    <th class="tg-led6">Loan Type</th>
+    <th class="tg-led6">Interest</th>
+  </tr>
+  <tr>
+    <td class="tg-a5uz">1</td>
+    <td class="tg-il4a">General Loans</td>
+    <td class="tg-il4a"></td>
+  </tr>
+  <tr>
+    <td class="tg-a5uz"></td>
+    <td class="tg-il4a">I)Upto 2.00 Lakh</td>
+    <td class="tg-il4a">11.00%</td>
+  </tr>
+  <tr>
+    <td class="tg-a5uz"></td>
+    <td class="tg-il4a">II)Above 2.00 Lakh</td>
+    <td class="tg-il4a">12.00%</td>
+  </tr>
+  <tr>
+    <td class="tg-a5uz">2</td>
+    <td class="tg-il4a">Loan for Educated Unemployed</td>
+    <td class="tg-il4a">11.50%</td>
+  </tr>
+  <tr>
+    <td class="tg-a5uz">3</td>
+    <td class="tg-il4a">Agro Clinic</td>
+    <td class="tg-il4a">10.25%</td>
+  </tr>
+</table>
    
   
                         <br /><br />
@@ -854,46 +1247,31 @@
                 <div class="row">
                     <div class="col-md-offset-2 col-md-8">
 						    
-                       <h2>(N) Cash Credit Loan For Agriculture & Non-Agriculture Societies</h2>
+                       <h2>(Q) Long Term Loans</h2>
                         <br />
 
- 
-   
-  
-                        <br /><br />
-                     </div>
-                </div><!-- row-->
-                <div class="row">
-                    <div class="col-md-offset-2 col-md-8">
-						    
-                       <h2>(O) Cash Credit Loan For Agriculture & Non-Agriculture Societies</h2>
-                        <br />
-
- 
-   
-  
-                        <br /><br />
-                     </div>
-                </div><!-- row-->
-                <div class="row">
-                    <div class="col-md-offset-2 col-md-8">
-						    
-                       <h2>(P) Cash Credit Loan For Agriculture & Non-Agriculture Societies</h2>
-                        <br />
-
- 
-   
-  
-                        <br /><br />
-                     </div>
-                </div><!-- row-->
-                <div class="row">
-                    <div class="col-md-offset-2 col-md-8">
-						    
-                       <h2>(Q) Cash Credit Loan For Agriculture & Non-Agriculture Societies</h2>
-                        <br />
-
- 
+ <table class="tg" style="undefined;table-layout: fixed; width: 641px">
+<colgroup>
+ <col style="width: 50px">
+                            <col style="width: 406px">
+                            <col style="width: 269px">
+</colgroup>
+  <tr>
+    <th class="tg-led6">Sr.No</th>
+    <th class="tg-led6">Loan Type</th>
+    <th class="tg-led6">Interest</th>
+  </tr>
+  <tr>
+    <td class="tg-a5uz">1</td>
+    <td class="tg-il4a">Agriculture Produce Market Committee</td>
+    <td class="tg-il4a">11.00%</td>
+  </tr>
+  <tr>
+    <td class="tg-a5uz">2</td>
+    <td class="tg-il4a">Flat Purchase/Construction Loan</td>
+    <td class="tg-il4a">11.00%</td>
+  </tr>
+</table>
    
   
                         <br /><br />
