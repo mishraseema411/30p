@@ -65,60 +65,74 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<h1><a class="navbar-brand" href="index.html"><img class="img-responsive" src="images/logotransparent.png" alt="Smiley face" height="42" width="42"/></a></h1>
+					<h1><a class="navbar-brand" href="index.aspx"><img class="img-responsive" src="images/logotransparent.png" alt="Smiley face" height="42" width="42"/></a></h1>
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
 					<nav class="cl-effect-13" id="cl-effect-13">
 						<ul class="nav navbar-nav ">
-							<li ><a href="index.html">Home</a></li>
+							<li ><a href="index.aspx">Home</a></li>
 						
-							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us <b class="caret"></b></a>
-								<ul class="dropdown-menu agile_short_dropdown">
-									<li><a href="#">Introduction</a></li>
-									<li><a href="#">Board Of Directors</a></li>
-									<li><a href="#">Management</a></li>
-									<li><a href="#">Annual Report</a></li>
-								</ul>
+							<li>
+								<a href="aboutus.aspx">About Us</a>
+								<!--<ul class="dropdown-menu agile_short_dropdown">
+									<li><a href="#tab1">Introduction</a></li>
+									<li><a href="#tab2">Board Of Directors</a></li>
+									<li><a href="#tab3">Management</a></li>
+									<li><a href="#tab4">Annual Report</a></li>
+								</ul>-->
 							</li>
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Loan <b class="caret"></b></a>
 								<ul class="dropdown-menu agile_short_dropdown">
-									<li><a href="#">Non-Agricultural Loan</a></li>
-									<li><a href="#">Agriculture Loans</a></li>
-									<li><a href="#">Interest Rates</a></li>
-									<li><a href="#">Calculate</a></li>
+									<li>
+                                        <a href="nonagriculture_loan.aspx">Non-Agricultural Loan</a>
+                                        
+                                        <!--<ul class="dropdown-menu agile_short_dropdown">
+									        <li><a href="personal_loan.aspx">Personal Loan</a></li>
+									        <li><a href="gold_loan.aspx">Gold Loans</a></li>
+									        <li><a href="consumer_loan.aspx">Consumer Loans</a></li>
+									        <li><a href="education_loan.aspx">Education Loans</a></li>
+                                            <li><a href="car_loan.aspx">Vehicle Loans</a></li>
+									        <li><a href="business_loan.aspx">Business Loan</a></li>
+									        <li><a href="home_loan.aspx">Home Loans</a></li>
+                                             <li><a href="self_help_group.aspx">Self-Help Groups</a></li>
+									        <li><a href="non_agriculture_interest_rates.aspx">Non-Agriculture Interest Rates</a></li>
+								        </ul>-->
+									</li>
+									<li><a href="agriculture_loan.aspx">Agriculture Loans</a></li>
+									<li><a href="interest_rate.aspx">Interest Rates</a></li>
+									<li><a href="calculate.aspx">Calculate</a></li>
 								</ul>
 							</li>
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Account <b class="caret"></b></a>
 								<ul class="dropdown-menu agile_short_dropdown">
-									<li><a href="#">Saving Account</a></li>
-									<li><a href="#">Current Account</a></li>
-									<li><a href="#">Calculate</a></li>
+									<li><a href="saving_accounts.aspx">Saving Account</a></li>
+									<li><a href="current_account.aspx">Current Account</a></li>
+									<li><a href="calculate.aspx">Calculate</a></li>
 								</ul>
 							</li>
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Banking Services <b class="caret"></b></a>
 								<ul class="dropdown-menu agile_short_dropdown">
-									<li><a href="#">Any Branch Banking</a></li>
-									<li><a href="#">IMPS</a></li>
-									<li><a href="#">Lockers</a></li>
-									<li><a href="#">MSEB Bills</a></li>
+									<li><a href="any_branch_banking.aspx">Any Branch Banking</a></li>
+									<li><a href="imps.aspx">IMPS</a></li>
+									<li><a href="lockers.aspx">Lockers</a></li>
+									<li><a href="mseb_bills.aspx">MSEB Bills</a></li>
 								</ul>
 							</li>
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Deposit <b class="caret"></b></a>
 								<ul class="dropdown-menu agile_short_dropdown">
-									<li><a href="#">Fixed Deposit</a></li>
-									<li><a href="#">Recurring Deposit</a></li>
-									<li><a href="#">Calculate</a></li>
-									<li><a href="#">Invest Rates</a></li>
+									<li><a href="fixed_deposit.aspx">Fixed Deposit</a></li>
+									<li><a href="recurring_deposit.aspx">Recurring Deposit</a></li>
+									<li><a href="calculate.aspx">Calculate</a></li>
+									<li><a href="interest_rate.aspx">Interest Rates</a></li>
 								</ul>
 							</li>
-							<li><a href="#">Cards</a></li>
-							<li><a href="#">Contact</a></li>
+							<li><a href="cards.aspx">Cards</a></li>
+							<li><a href="contact.aspx">Contact</a></li>
 						</ul>
 <!-- 						<div class="w3_agile_login">
 							<div class="cd-main-header">

@@ -67,4 +67,6 @@
 
 <!-- for bootstrap working -->
 <script src="js/bootstrap.js"></script>
+<script src="js_1/vendor/jquery-1.11.2.min.js"></script>
+<script src="js_1/vendor/bootstrap.min.js"></script>
 <!-- //for bootstrap working -->

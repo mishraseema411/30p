@@ -152,13 +152,7 @@
     <!-- load Js -->
 		<script src="js/jquery-1.11.3.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
-<<<<<<< HEAD
-=======
-		
-      
 
- 
->>>>>>> 3a348a97639bbefd20bc44623b9cf4b8cf238b87
 		<script src="js/html5lightbox.js"></script>
 		<script src="js/jquery.mixitup.js"></script>
     <script src="js/main.js"></script>

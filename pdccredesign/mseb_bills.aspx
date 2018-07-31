@@ -13,7 +13,7 @@
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
 		<link rel="shortcut icon" href="images/logotransparent.png"/>
 <!-- //for-mobile-apps -->
-<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+ 
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/style1.css" rel="stylesheet" type="text/css"/>
    <!-- newfile -->
@@ -75,16 +75,11 @@
         <script src="A_js/plugins.js"></script>
         <script src="A_js/jquery.counterup.min.js"></script>
         <script src="A_js/jquery.waypoints.min.js"></script>
-        <script src="A_js/jquery.nicescroll.min.js"></script>
-        <script src="A_js/wow.min.js"></script>
-        <script>new WOW().init();</script>  
+       
 
 
     
 <foot:Footer runat="server" ID="footer1" />
 </body>
  
-</html>
-
-    </body>
 </html>
