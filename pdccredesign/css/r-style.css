@@ -15,11 +15,10 @@ h1, h2, h3, h4, h5 {
      
     color:#41464b;
     text-transform: uppercase;
-} 
+}
 
 a {
-   
-    color: #EFBC40;
+    color: #F50A1B;
 }
 a:hover {
 	color:#000;
@@ -44,10 +43,12 @@ p {
 /*====================================================
                    SERVICE-HOME
 ======================================================*/
-
-    #service-h {
-        padding: 120px 0 50px;
-    }
+.pdtop{
+    padding-top:50px;
+}
+#service-h {
+    padding: 120px 0 50px;
+}
 
     .service-h-desc {
         padding: 50px 10px 90px 60px;
@@ -143,15 +144,13 @@ p {
             padding: 30px 0 0px;
         }
 
-        .service-himg {
-            background: #fff;
-            height: 315px;
-            width: 100%;
+        .service-himg img {
+            display:none;
         }
         .service-himg iframe {
             height: 270px;
-            width: 100%;
-            margin: 50px auto 70px auto;
+            width: 60%;
+            margin: 0px auto 70px auto;
             box-shadow: 3px 3px 8px 1px #505050;
             border: 1px solid #2196f3;
         }
@@ -161,7 +160,7 @@ p {
             width: 100%;
             text-align: center;
             height: 55px;
-            line-height: 40px;
+            line-height: 80px;
             border: 1px solid #ddd;
         }
     }
@@ -180,5 +179,7 @@ p {
         }
     }
 
-
+#nav-home-tab{
+    padding:3px;
+}
 
