@@ -32,6 +32,11 @@
     <head:Header runat="server" ID="header1" />
 
     <!-- stats -->
+    <style>
+      #az  {
+            border:1px solid yellow;
+        }
+        </style>
 
 
     <!-- //banner -->

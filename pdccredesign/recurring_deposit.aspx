@@ -33,7 +33,11 @@
     <head:Header runat="server" ID="header1" />
 
     <!-- stats -->
-
+    <style>
+#az {
+    border: 1px solid yellow;
+}
+    </style>
 
     <!-- //banner -->
     <!-- Introduction -->
@@ -41,7 +45,7 @@
         <div class="agileits-title">
             <h2 class="w3ls_head"><span>RECURRING </span> DEPOSITS</h2>
         </div>
-        <a href="#" >Accounts And Deposits</a> > <a href="#" >Deposit</a> > <a href="#">Recurring Deposits</a>
+        <a href="Accounts deposit.aspx" >Accounts And Deposits</a> > <a href="deposit.aspx" >Deposit</a> > <a href="#">Recurring Deposits</a>
       <br>
         <div class="contact agileits" id="az">
             <div class="container">
@@ -59,7 +63,7 @@
                     </div>
                 </div>
                 <div class="col-md-4 contact-right wthree">
-                    <img src="images/saving.jpg" width="400" height="350" id="az_image">
+                    <img src="images/saving.jpg" width="300" height="250" id="az_image">
                     </div>
                 </div>
                 <div class="clearfix"></div>

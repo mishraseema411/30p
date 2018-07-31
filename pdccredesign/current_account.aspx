@@ -34,7 +34,12 @@
     <!-- stats -->
 
 
-    <!-- //banner -->
+    <style>
+#az {
+    border: 1px solid yellow;
+}
+
+        </style>
     <!-- Introduction -->
     <div class="container">
         <div class="agileits-title">
@@ -58,7 +63,7 @@
                     <h5>To enjoy all these benefits, just open a savings account with any branch of our bank.</h5>
                     <br>
                     <div class="agileits_w3layouts_more">
-                        <a href="#" data-toggle="modal" data-target="#myModal">Appy Online</a>
+                        <a href="accform.aspx" >Appy Online</a>
                     </div>
                 </div>
                 <div class="col-md-4 contact-right wthree">

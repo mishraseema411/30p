@@ -47,7 +47,7 @@
 					<h4>SAVINGS ACCOUNT</h4>
 					<p>Savings Account is primarily meant to inculcate a sense of saving for your future financial requirements. The main objective is to save in small or large amount from time to time.</p>
 					<div class="agileits_w3layouts_more">
-				    <a href="saving_accounts.aspx">Read More</a> <a href="#">Apply Online</a>
+				    <a href="saving_accounts.aspx">Read More</a> <a href="accform.aspx">Apply Online</a>
 				    </div>
 				</div>
 				<div class="col-md-6 services-grids top-1">
@@ -64,7 +64,7 @@
 					<h4>Calculate</h4>
 					<p>LOAN CALCULATOR.</p>
 				    <div class="agileits_w3layouts_more">
-				    <a href="#">Read More</a>
+				    <a href="calculate.aspx">Read More</a><a href="accform.aspx">Apply Online</a>
 				    </div>
 					
 				</div> 

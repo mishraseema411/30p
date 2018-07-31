@@ -32,10 +32,7 @@
 <body>
     <head:Header runat="server" ID="header1" />
 
-    <!-- stats -->
-
-
-    <!-- //banner -->
+   
     <!-- Introduction -->
     <div class="container">
         <div class="agileits-title">

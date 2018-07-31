@@ -35,7 +35,21 @@
     <!-- stats -->
 
 
-    <!-- //banner -->
+    <!-- style -->
+    <style>
+
+        hr {
+    color: yellow;
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+</style>
     <!-- Introduction -->
     <div class="container">
         <div class="agileits-title">
@@ -54,13 +68,15 @@
                     <hr>
                     <br>
                     <h5>Savings Account is primarily meant to inculcate a sense of saving for your future financial requirements. The main objective is to save in small or large amount from time to time.</h5>
-                    <br>
+                    <div class="agileits_w3layouts_more">
+                        <a href="saving_accounts.aspx" >Read more </a>  <a href="#" >Download Application Form</a>
+                    </div><br>
                     <h4 >Current Account</h4>
                     <hr>
                     <br>
                     <h5>PDCC Bank provides flexibility to the customers by providing Current Account scheme. Current accounts at PDCC Bank provide the convenience to the customers of safety & security of their deposits in addition to quick access to their funds.</h5>
                     <div class="agileits_w3layouts_more">
-                        <a href="#" data-toggle="modal" data-target="#myModal">Read more </a><a href="#" data-toggle="modal" data-target="#myModal">Download Application Form</a>
+                        <a href="current_account.aspx" >Read more </a><a href="#" >Download Application Form</a>
                     </div>
                 </div>
                 <div class="col-md-4 contact-right wthree">
@@ -93,7 +109,7 @@
                     <h5>Ideal to earn higher rate of interest, if the investor can spare money for a specified period of time. The period ranges from 30 days to 120 months and above as decided by the investor.</h5>
                     <br>
                   <div class="agileits_w3layouts_more">
-                        <a href="#" data-toggle="modal" data-target="#myModal">Read more </a><a href="#" data-toggle="modal" data-target="#myModal">Download Application Form</a>
+                        <a href="fixed.aspx" >Read more </a><a href="#" >Download Application Form</a>
                     </div>
                     <br>
                     <h4>Recurring Deposits</h4>
@@ -102,7 +118,7 @@
                     <h5>The Recurring deposit account is an account in the bank where an investor deposits a fixed amount of money every month for a fixed tenure (mostly ranging from one year to five years).</h5>
                     <br>
                   <div class="agileits_w3layouts_more">
-                        <a href="#" >Read more </a><a href="#" >Download Application Form</a>
+                        <a href="recurring_deposit.aspx" >Read more </a><a href="#" >Download Application Form</a>
                     </div>
                     <br>
                 <h4>Reinvestments Deposits</h4>
@@ -119,7 +135,7 @@
                     <br>
                     <h5>The advantage in opening a Daily Deposit Account (PIGMY) that the depositor would be able to save certain sums in daily basis so that he / she would be able to meet an anticipated liability /obligation after the end of a specified period.</h5>
                   <div class="agileits_w3layouts_more">
-                        <a href="#" data-toggle="modal" data-target="#myModal">Read more </a><a href="#" data-toggle="modal" data-target="#myModal">Download Application Form</a>
+                        <a href="#" >Read more </a><a href="#" >Download Application Form</a>
                     </div>
                 </div>
                 </div>
