@@ -7,7 +7,7 @@
 <head>
     <title>About Us|Pune District Central Co-Operative Bank Ltd.</title>
     <!-- for-mobile-apps -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
     <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
@@ -186,7 +186,7 @@
                         </ul>
                     </div>
                     <div class="col-sm-9">
-                        <div class="tab-content" style="background-color: #F9F8F3; padding: 15px 15px 15px 15px;">
+                        <div class="tab-content" style="background-color: #f9f6e8; padding: 15px 15px 15px 15px;">
                             <div role="tabpanel" class="tab-pane active" id="tab1">
 
                                 <h2 class="w3ls_head" style="padding-bottom: 2px;"><span>PUNE </span>PROFILE</h2>
@@ -366,12 +366,12 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                 <section id="bod">
 
                                     <div class="container">
-                                       
+
                                         <div class="row">
-                                            
+
                                             <div class="col-md-3 ">
-                                                 <hr />
-                                        CHAIRMAN
+                                                <hr />
+                                                CHAIRMAN
                                         <hr />
                                                 <div class="media img-circle">
                                                     <img class="media__image img-responsive img-circle" src="images/bod/ramesh_thorat.jpg">
@@ -382,14 +382,14 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                     </div>
                                                 </div>
                                             </div>
-                                            </div>
-                                        
+                                        </div>
+
                                         <div class="row">
-                                           
+
                                             <div class="col-md-3 ">
-                                                 <hr />
-                                        VICE-CHAIRMAN
-                                        <hr/>
+                                                <hr />
+                                                VICE-CHAIRMAN
+                                        <hr />
                                                 <div class="media img-circle">
                                                     <img class="media__image img-responsive img-circle" src="images/bod/Archana Ghare.png">
                                                     <div class="media__body">
@@ -399,18 +399,18 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                 </div>
                                             </div>
                                         </div>
-                                       
 
-                                          <div class="row">
-                                            <div class="col-md-3 ">
-                                              <hr />
-                                        DIRECTORS
-                                        <hr/>
-                                            </div>
-                                            </div>                                       
 
                                         <div class="row">
-                                             
+                                            <div class="col-md-3 ">
+                                                <hr />
+                                                DIRECTORS
+                                        <hr />
+                                            </div>
+                                        </div>
+
+                                        <div class="row">
+
                                             <div class="col-md-3 ">
                                                 <div class="media img-circle">
                                                     <img class="media__image img-responsive " src="images/bod/ajit_pawar.jpg">
@@ -636,8 +636,10 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                     <img class="media__image img-responsive" src="">
                                                     <div class="media__body">
                                                         <h2>Shri. Aanand Katke</h2>
-                                                        <p>District Deputy Registrar of Co-operative Societies,<br />
-                                                            Pune(Goverment Representative)</p>
+                                                        <p>
+                                                            District Deputy Registrar of Co-operative Societies,<br />
+                                                            Pune(Goverment Representative)
+                                                        </p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -651,6 +653,8 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
 
                             </div>
                             <!-- tab2 close-->
+
+
                             <div role="tabpanel" class="tab-pane" id="tab3">
                                 <h2 class="w3ls_head" style="padding-bottom: 2px;"><span></span>MANAGEMENT </h2>
                                 <section id="bod">
@@ -658,7 +662,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                         <div class="row">
                                             <div class="col-md-3 ">
                                                 <div class="media">
-                                                    <img class="media__image img-responsive" src="images/bod/ramesh_thorat.jpg">
+                                                    <img class="media__image img-responsive" src="images/bod/ramesh_thorat.jpg"/>
                                                     <div class="media__body">
 
                                                         <h2>Shri. Ramesh Thorat</h2>
@@ -668,7 +672,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                             </div>
                                             <div class="col-md-3 ">
                                                 <div class="media">
-                                                    <img class="media__image img-responsive" src="images/bod/Archana Ghare.png">
+                                                    <img class="media__image img-responsive" src="images/bod/Archana Ghare.png"/>
                                                     <div class="media__body">
                                                         <h2>Smt. Archana Ghare</h2>
                                                         <p>Vice-Chairman</p>
@@ -679,7 +683,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                         <div class="row">
                                             <div class="col-md-3 ">
                                                 <div class="media">
-                                                    <img class="media__image img-responsive" src="images/bod/ajit_pawar.jpg">
+                                                    <img class="media__image img-responsive" src="images/bod/ajit_pawar.jpg"/>
                                                     <div class="media__body">
                                                         <h2>Shri. Ajit Pawar</h2>
                                                         <p>Director</p>
@@ -688,7 +692,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                             </div>
                                             <div class="col-md-3 ">
                                                 <div class="media">
-                                                    <img class="media__image img-responsive" src="images/bod/dilip_vadase.jpg">
+                                                    <img class="media__image img-responsive" src="images/bod/dilip_vadase.jpg"/>
                                                     <div class="media__body">
                                                         <h2>Shri. Diliprao Walse-Patil</h2>
                                                         <p>Director</p>
@@ -697,7 +701,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                             </div>
                                             <div class="col-md-3 ">
                                                 <div class="media">
-                                                    <img class="media__image img-responsive" src="images/bod/dattatray_bharane.jpg">
+                                                    <img class="media__image img-responsive" src="images/bod/dattatray_bharane.jpg"/>
                                                     <div class="media__body">
                                                         <h2>Shri. Dattaray Bharne</h2>
                                                         <p>Director</p>
@@ -709,7 +713,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
 
                                             <div class="col-md-3 ">
                                                 <div class="media">
-                                                    <img class="media__image img-responsive" src="images/bod/nivrutti_anna_gavali.jpg">
+                                                    <img class="media__image img-responsive" src="images/bod/nivrutti_anna_gavali.jpg"/>
                                                     <div class="media__body">
                                                         <h2>Shri. NivrutiAnna Gavari</h2>
                                                         <p>Director</p>
@@ -902,8 +906,10 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                     <img class="media__image img-responsive" src="">
                                                     <div class="media__body">
                                                         <h2>Shri. Aanand Katke</h2>
-                                                        <p>District Deputy Registrar of Co-operative Societies,<br />
-                                                            Pune(Goverment Representative)</p>
+                                                        <p>
+                                                            District Deputy Registrar of Co-operative Societies,<br />
+                                                            Pune(Goverment Representative)
+                                                        </p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -924,7 +930,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                 </div>
 
             </div>
-            </div>
+        </div>
     </section>
 
 

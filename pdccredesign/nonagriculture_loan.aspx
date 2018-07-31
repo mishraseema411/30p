@@ -152,11 +152,6 @@
     <!-- load Js -->
 		<script src="js/jquery-1.11.3.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
-		
-      <script src="js/owl.carousel.min.js"></script>
-
-
- 
 		<script src="js/html5lightbox.js"></script>
 		<script src="js/jquery.mixitup.js"></script>
     <script src="js/main.js"></script>

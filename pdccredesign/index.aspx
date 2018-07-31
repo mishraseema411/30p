@@ -16,7 +16,7 @@
 <!-- //for-mobile-apps -->
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-<link href="css/style1.css" rel="stylesheet" type="text/css"/>
+<link href="css/style2.css" rel="stylesheet" type="text/css"/>
 <!-- js -->
 <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
 <script src="js/main.js"></script>
@@ -147,88 +147,7 @@
 			</div>
 		</section>
 
-<!--<section id="portfolio">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<div class="title">
-							<h2>QUICK CHECK</h2>
-							<p>We always believes in customer satisfaction and endeavors to provide value added services to the customers of the Bank. <br> Your voice is our wisdom. Visit your nearest branch for voicing out your opinion or contact us now.</p>
-						</div>
-						<div class="block">
-							 <div class="recent-work-mixMenu">
-								<ul>
-									<li><button class="filter" data-filter="all">All</button></li>
-									<li><button class="filter" data-filter=".category-2">Printing</button></li>
-									<li><button class="filter" data-filter=".category-1">Web</button></li>
-									<li><button class="filter" data-filter=".category-2">Illustration</button></li>
-									<li><button class="filter" data-filter=".category-1">Media</button></li>
-								</ul>
-							</div> 
-							<div class="recent-work-pic">
-								<ul id="mixed-items">
-									<li class="mix category-1 col-md-3 col-xs-12" data-my-order="1">
-										<a class="example-image-link text-center" href="#">
-											<img class="img-responsive" src="1014234320148426307.png" alt="" style="height:230px;width:130px;">
-											<div class="text-over">
-											<i class="fa fa-briefcase" style="font-size:40px;padding-bottom:15px;color:gray;"></i>
-											<h3>Personal Banking</h3>
-											<p>Your unique needs are our <br> priority, choose the best <br>that suits you</p>
-											</div>
-											<div class="overlay">
-													 
-													<a href=""><i class="ion-ios-plus-empty"></i></a>
-											</div>
-										</a>
-									</li>
-									<li class="mix category-1 col-md-3 col-xs-12" data-my-order="2">
-										<a class="example-image-link text-center" href="#">
-											<img class="img-responsive" src="1014234320148426307.png" alt="" style="height:230px;width:130px;">
-											<div class="text-over">
-											<i class="fa fa-user" style="font-size:40px;padding-bottom:15px;color:gray;"></i>
-											<h3>Superior Advice</h3>
-											<p>We listen carefully when <br>you say, share your views <br>online now</p>
-											</div><div class="overlay">
-												 
-												<a href=""><i class="ion-ios-plus-empty"></i></a>
-											</div>
-										</a>
-									</li>
-									<li class="mix category-1 col-md-3 col-xs-12" data-my-order="3">
-										<a class="example-image-link text-center" href="#">
-											<img class="img-responsive" src="1014234320148426307.png" alt="" style="height:230px;width:130px;">
-											<div class="text-over">
-											<i class="fa fa-save" style="font-size:40px;padding-bottom:15px;color:gray;"></i>
-											<h3>Save More</h3>
-											<p>We are empowering the true <br>potential of your savings <br>with maximum interest<br> rates</p>
-											</div><div class="overlay">
-												 
-												<a href=""><i class="ion-ios-plus-empty"></i></a>
-											</div>
-										</a>
-									</li>
-									<li class="mix category-1 col-md-3 col-xs-12" data-my-order="4">
-										<a class="example-image-link text-center" href="#">
-											<img class="img-responsive" src="1014234320148426307.png" alt="" style="height:230px;width:130px;">
-											<div class="text-over">
-											<i class="fa fa-edit" style="font-size:40px;padding-bottom:15px;color:gray;"></i>
-											<h3>Loan Application</h3>
-											<p>We take spacial care <br>of pune when it comes <br>to uplift standard of living of<br> every "punekar"</p>
-											</div><div class="overlay">
-												 
-												<a href=""><i class="ion-ios-plus-empty"></i></a>
-											</div>
-										</a>
-									</li>
-									
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>-->
-		
+
 <!-- services -->
 	<div class="services">
 		<div class="container">
