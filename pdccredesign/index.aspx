@@ -16,7 +16,8 @@
 <!-- //for-mobile-apps -->
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-<link href="css/style2.css" rel="stylesheet" type="text/css"/>
+
+    <link href="css/style1.css" rel="stylesheet" type="text/css"/>
 <!-- js -->
 <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
 <script src="js/main.js"></script>
@@ -225,6 +226,8 @@
 <!-- stats -->
 	<script src="js/jquery.waypoints.min.js"></script>
 	<script src="js/jquery.countup.js"></script>
+    <script src="js/bootstrap.js"></script>
+<script src="js_1/vendor/jquery-1.11.2.min.js"></script>
 		<script>
 			$('.counter').countUp();
 		</script>
@@ -244,7 +247,10 @@
        
     
  <foot:Footer runat="server" ID="footer1" />
+    <!-- for bootstrap working -->
 
+
+<!-- //for bootstrap working -->
 </body>
  
-</html>
+</html> 
