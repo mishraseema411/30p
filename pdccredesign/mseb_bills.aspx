@@ -16,6 +16,10 @@
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/style1.css" rel="stylesheet" type="text/css"/>
+   <!-- newfile -->
+    <link rel="stylesheet" type="text/css" href="css/AV_bootstrap.min.css"> 
+        <link rel="stylesheet" type="text/css" href="css/AV_style.css"> 
+        <link rel="stylesheet" type="text/css" href="css/AV_animate.css">
 <!-- js -->
 <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
 <script src="js/main.js"></script>
@@ -29,7 +33,51 @@
  </head>
 <body>
    <head:Header runat="server" ID="header1" />
-  
+       <section id="contact-us">
+            <div class="contact-us">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12 wow bounceInDown">
+                            <h2 class="section-title">MSEB BILL PAYMENT</h2>
+                          
+                        </div>
+                    </div>
+                </div>
+                <div class="section-wrapper"> 
+                    <div class="container"> 
+                            <div class="row">
+                            <div class="col-md-12 wow bounceInLeft">
+							
+						
+						<li>
+						<ul style="padding-bottom:10px" >
+							<li><a href="#">SERVICES</a></li>
+							<li><a href="#">MSEB BILL PAYMENT</a></li><br/>
+						 </ul>  
+ 					    
+									<li style="font-size:20px"><em> Customers from Pune region can pay their electricity bill by way of electronic debits  to their Accounts with us.</em></li>
+									
+									<br/>
+									<br/>
+								   <li style="font-size:20px"><em> This service is offered free of cost to our customers.</em></li>
+								</li>								
+							
+							</div>
+						  
+						</div>
+	                </div>
+            </div>
+						
+                          
+                            </div>                                                     
+      <script src="A_js/jquery.js"></script>
+        <script src="A_js/bootstrap.min.js"></script>
+        <script src="A_js/plugins.js"></script>
+        <script src="A_js/jquery.counterup.min.js"></script>
+        <script src="A_js/jquery.waypoints.min.js"></script>
+        <script src="A_js/jquery.nicescroll.min.js"></script>
+        <script src="A_js/wow.min.js"></script>
+        <script>new WOW().init();</script>  
 
 
     
