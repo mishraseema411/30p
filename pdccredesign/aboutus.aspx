@@ -366,12 +366,15 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                 <section id="bod">
 
                                     <div class="container">
-
+                                       
                                         <div class="row">
-
-                                            <div class="col-md-3 " style="margin:">
-                                                <div class="media">
-                                                    <img class="media__image img-responsive" src="images/bod/ramesh_thorat.jpg">
+                                            
+                                            <div class="col-md-3 ">
+                                                 <hr />
+                                        CHAIRMAN
+                                        <hr />
+                                                <div class="media img-circle">
+                                                    <img class="media__image img-responsive img-circle" src="images/bod/ramesh_thorat.jpg">
                                                     <div class="media__body">
 
                                                         <h2>Shri. Ramesh Thorat</h2>
@@ -379,10 +382,16 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                     </div>
                                                 </div>
                                             </div>
-
+                                            </div>
+                                        
+                                        <div class="row">
+                                           
                                             <div class="col-md-3 ">
-                                                <div class="media">
-                                                    <img class="media__image img-responsive" src="images/bod/Archana Ghare.png">
+                                                 <hr />
+                                        VICE-CHAIRMAN
+                                        <hr/>
+                                                <div class="media img-circle">
+                                                    <img class="media__image img-responsive img-circle" src="images/bod/Archana Ghare.png">
                                                     <div class="media__body">
                                                         <h2>Smt. Archana Ghare</h2>
                                                         <p>Vice-Chairman</p>
@@ -390,10 +399,21 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="row">
+                                       
+
+                                          <div class="row">
                                             <div class="col-md-3 ">
-                                                <div class="media">
-                                                    <img class="media__image img-responsive" src="images/bod/ajit_pawar.jpg">
+                                              <hr />
+                                        DIRECTORS
+                                        <hr/>
+                                            </div>
+                                            </div>                                       
+
+                                        <div class="row">
+                                             
+                                            <div class="col-md-3 ">
+                                                <div class="media img-circle">
+                                                    <img class="media__image img-responsive " src="images/bod/ajit_pawar.jpg">
                                                     <div class="media__body">
                                                         <h2>Shri. Ajit Pawar</h2>
                                                         <p>Director</p>
@@ -401,7 +421,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                 </div>
                                             </div>
                                             <div class="col-md-3 ">
-                                                <div class="media">
+                                                <div class="media img-circle">
                                                     <img class="media__image img-responsive" src="images/bod/dilip_vadase.jpg">
                                                     <div class="media__body">
                                                         <h2>Shri. Diliprao Walse-Patil</h2>
@@ -410,7 +430,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                 </div>
                                             </div>
                                             <div class="col-md-3 ">
-                                                <div class="media">
+                                                <div class="media img-circle">
                                                     <img class="media__image img-responsive" src="images/bod/dattatray_bharane.jpg">
                                                     <div class="media__body">
                                                         <h2>Shri. Dattaray Bharne</h2>
@@ -422,7 +442,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                         <div class="row">
 
                                             <div class="col-md-3 ">
-                                                <div class="media">
+                                                <div class="media img-circle">
                                                     <img class="media__image img-responsive" src="images/bod/nivrutti_anna_gavali.jpg">
                                                     <div class="media__body">
                                                         <h2>Shri. NivrutiAnna Gavari</h2>
@@ -431,7 +451,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                 </div>
                                             </div>
                                             <div class="col-md-3 ">
-                                                <div class="media">
+                                                <div class="media img-circle">
                                                     <img class="media__image img-responsive" src="images/bod/revannath_darvatkar.jpg">
                                                     <div class="media__body">
                                                         <h2>Shri. Revannath Darvatkar</h2>
@@ -440,7 +460,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                 </div>
                                             </div>
                                             <div class="col-md-3">
-                                                <div class="media">
+                                                <div class="media img-circle">
                                                     <img class="media__image img-responsive" src="images/bod/anil_bhosale.jpg">
                                                     <div class="media__body">
                                                         <h2>Shri. Anil Bhosale</h2>
@@ -457,7 +477,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                         <div class="row">
 
                                             <div class="col-md-3 ">
-                                                <div class="media">
+                                                <div class="media img-circle">
                                                     <img class="media__image img-responsive" src="images/bod/prakash_mhaske.jpg">
                                                     <div class="media__body">
                                                         <h2>Shri. Prakash Mhaske</h2>
@@ -466,7 +486,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                 </div>
                                             </div>
                                             <div class="col-md-3 ">
-                                                <div class="media">
+                                                <div class="media img-circle">
                                                     <img class="media__image img-responsive" src="images/bod/digambar_durgade.jpg">
                                                     <div class="media__body">
                                                         <h2>Shri.Digambar Durgade</h2>
@@ -475,7 +495,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                 </div>
                                             </div>
                                             <div class="col-md-3">
-                                                <div class="media">
+                                                <div class="media img-circle">
                                                     <img class="media__image img-responsive" src="images/bod/atmaram_kalate.jpg">
                                                     <div class="media__body">
                                                         <h2>Shri. Atmaram Kalate</h2>
@@ -488,7 +508,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                         <div class="row">
 
                                             <div class="col-md-3 ">
-                                                <div class="media">
+                                                <div class="media img-circle">
                                                     <img class="media__image img-responsive" src="images/bod/sanjay_kale.jpg">
                                                     <div class="media__body">
                                                         <h2>Adv. Sanjay Kale</h2>
@@ -497,7 +517,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                 </div>
                                             </div>
                                             <div class="col-md-3 ">
-                                                <div class="media">
+                                                <div class="media img-circle">
                                                     <img class="media__image img-responsive" src="images/bod/appa_jagdale.jpg">
                                                     <div class="media__body">
                                                         <h2>Shri. AppaSaheb Jagdale</h2>
@@ -506,7 +526,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                 </div>
                                             </div>
                                             <div class="col-md-3">
-                                                <div class="media">
+                                                <div class="media img-circle">
                                                     <img class="media__image img-responsive" src="">
                                                     <div class="media__body">
                                                         <h2>Shri. Sangram Dada Thopate</h2>
@@ -519,7 +539,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                         <div class="row">
 
                                             <div class="col-md-3 ">
-                                                <div class="media">
+                                                <div class="media img-circle">
                                                     <img class="media__image img-responsive" src="images/bod/Dilip Mohite Patil.png">
                                                     <div class="media__body">
                                                         <h2>Shri. Dilip Mohite Patil</h2>
@@ -528,7 +548,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                 </div>
                                             </div>
                                             <div class="col-md-3 ">
-                                                <div class="media">
+                                                <div class="media img-circle">
                                                     <img class="media__image img-responsive" src="images/bod/Balasaheb Newale.png">
                                                     <div class="media__body">
                                                         <h2>Shri. Balasaheb Newale</h2>
@@ -537,7 +557,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                 </div>
                                             </div>
                                             <div class="col-md-3">
-                                                <div class="media">
+                                                <div class="media img-circle">
                                                     <img class="media__image img-responsive" src="images/bod/Bhalchadra Jagtap.png">
                                                     <div class="media__body">
                                                         <h2>Shri. Bhalchadra Jagtap</h2>
@@ -550,7 +570,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                         <div class="row">
 
                                             <div class="col-md-3 ">
-                                                <div class="media">
+                                                <div class="media img-circle">
                                                     <img class="media__image img-responsive" src="images/bod/Tulsiram Bhoir.png">
                                                     <div class="media__body">
                                                         <h2>Shri. Tulsiram Bhoir</h2>
@@ -559,7 +579,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                 </div>
                                             </div>
                                             <div class="col-md-3 ">
-                                                <div class="media">
+                                                <div class="media img-circle">
                                                     <img class="media__image img-responsive" src="images/bod/Madanrao Devkate.png">
                                                     <div class="media__body">
                                                         <h2>Shri. Mandanrao Devkate</h2>
@@ -568,7 +588,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                 </div>
                                             </div>
                                             <div class="col-md-3">
-                                                <div class="media">
+                                                <div class="media img-circle">
                                                     <img class="media__image img-responsive" src="images/bod/Dr.Varsha Shival.png">
                                                     <div class="media__body">
                                                         <h2>Dr.Varsha Shivale</h2>
@@ -581,7 +601,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                         <div class="row">
 
                                             <div class="col-md-3 ">
-                                                <div class="media">
+                                                <div class="media img-circle">
                                                     <img class="media__image img-responsive" src="">
                                                     <div class="media__body">
                                                         <h2>Shri. Sanjay Chandrakant </h2>
@@ -590,7 +610,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                 </div>
                                             </div>
                                             <div class="col-md-3 ">
-                                                <div class="media">
+                                                <div class="media img-circle">
                                                     <img class="media__image img-responsive" src="">
                                                     <div class="media__body">
                                                         <h2>Shri. Suresh Ghule</h2>
@@ -599,7 +619,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                                 </div>
                                             </div>
                                             <div class="col-md-3">
-                                                <div class="media">
+                                                <div class="media img-circle">
                                                     <img class="media__image img-responsive" src="">
                                                     <div class="media__body">
                                                         <h2>Shri. Popatrao Gavle</h2>
@@ -612,7 +632,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                                         <div class="row">
 
                                             <div class="col-md-3 ">
-                                                <div class="media">
+                                                <div class="media img-circle">
                                                     <img class="media__image img-responsive" src="">
                                                     <div class="media__body">
                                                         <h2>Shri. Aanand Katke</h2>
@@ -903,6 +923,7 @@ socio-economic development that promotesinclusive growth in rural areas in a sus
                     </div>
                 </div>
 
+            </div>
             </div>
     </section>
 
