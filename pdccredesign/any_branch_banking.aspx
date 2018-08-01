@@ -45,7 +45,7 @@
                         <div class="main_choose sections">
                             <div class="col-sm-6">
                                 <div class="head_title">
-                                    <h3>ANYWHERE BRANCH BANKING</h3>
+                                    <h3 >ANYWHERE BRANCH BANKING</h3>
                                    
 								<div class="separator"></div>
 								<h4>Pune District Central Co-operative Bank is providing Anywhere Branch Banking (ABB) facility through its 272 branches across the Pune District.</h4>
@@ -56,8 +56,8 @@
                                             <div class="panel panel-default">
                                                 <div class="panel-heading" role="tab" id="headingOne">
                                                     <h4 class="panel-title">
-                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne" class="collapsed">
-                                                            <i class="fa fa-picture-o"></i> Cash Payment 
+                                                        <a role="button"  data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne" class="collapsed">
+                                                            <i class="fa fa-inr"></i> Cash Payment 
                                                         </a>
                                                     </h4>
                                                 </div>
@@ -71,7 +71,7 @@
                                                 <div class="panel-heading" role="tab" id="headingTwo">
                                                     <h4 class="panel-title">
                                                         <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                            <i class="fa fa-map-signs"></i> Funds Transfer 
+                                                            <i class="fa fa-briefcase"></i> Funds Transfer 
                                                         </a>
                                                     </h4>
                                                 </div>
@@ -85,7 +85,7 @@
                                                 <div class="panel-heading" role="tab" id="headingThree">
                                                     <h4 class="panel-title">
                                                         <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                            <i class="fa fa-bullseye"></i> Balance Enquiry / Statement Printing
+                                                            <i class="fa fa-credit-card"></i> Balance Enquiry / Statement Printing
  
                                                         </a>
                                                     </h4>
@@ -100,7 +100,7 @@
                                                 <div class="panel-heading" role="tab" id="headingThree">
                                                     <h4 class="panel-title">
                                                         <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsefour" aria-expanded="false" aria-controls="collapseThree">
-                                                            <i class="fa fa-umbrella"></i>Cheque Deposit Facility 
+                                                            <i class="fa fa-pencil-square-o"></i>Cheque Deposit Facility 
                                                         </a>
                                                     </h4>
                                                 </div>
@@ -114,7 +114,7 @@
                                                 <div class="panel-heading" role="tab" id="headingThree">
                                                     <h4 class="panel-title">
                                                         <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsefive" aria-expanded="false" aria-controls="collapseThree">
-                                                            <i class="fa fa-subway"></i>Pass Book Printing 
+                                                            <i class="fa fa-book"></i>Pass Book Printing 
                                                         </a>
                                                     </h4>
                                                 </div>
@@ -130,7 +130,7 @@
                                                 <div class="panel-heading" role="tab" id="headingThree">
                                                     <h4 class="panel-title">
                                                         <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsefive" aria-expanded="false" aria-controls="collapseThree">
-                                                            <i class="fa fa-umbrella"></i>RTGS- Real Time Gross Settlement 
+                                                            <i class="fa fa-calendar-check-o"></i>RTGS- Real Time Gross Settlement 
                                                         </a>
                                                     </h4>
                                                 </div>
@@ -143,12 +143,12 @@
 											<div class="panel panel-default">
                                                 <div class="panel-heading" role="tab" id="headingThree">
                                                     <h4 class="panel-title">
-                                                        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsefour" aria-expanded="false" aria-controls="collapseThree">
-                                                            <i class="fa fa-umbrella"></i>NEFT- National Electronic Fund Transfer
+                                                        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsefive" aria-expanded="false" aria-controls="collapseThree">
+                                                            <i class="fa fa-desktop"></i>NEFT- National Electronic Fund Transfer
                                                         </a>
                                                     </h4>
                                                 </div>
-                                                <div id="collapseseven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree" aria-expanded="false">
+                                                <div id="collapseseven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingfive" aria-expanded="false">
                                                     <div class="panel-body">
                                                        This system of fund transfer operates on a Deferred Net Settlement basis. Fund transfer transactions are settled in batches as opposed to the continuous, individual settlement in RTGS. Presently, NEFT operates in hourly batches from 9 am to 7 pm on week days and 9 am to 1 pm on Saturdays.
                                                     </div>
