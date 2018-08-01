@@ -16,6 +16,7 @@ namespace pdccredesign
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+           // Server.Transfer(Request.Url.AbsolutePath + "index.aspx");
         }
     }
 }

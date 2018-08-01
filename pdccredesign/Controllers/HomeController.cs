@@ -10,7 +10,7 @@ namespace pdccredesign.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            return View("~/index.aspx");
         }
 
         public ActionResult About()
