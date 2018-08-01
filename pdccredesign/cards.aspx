@@ -202,7 +202,8 @@
                 <div class="col col-md-6 hovcolor1">
                     <div class="media wow fadeInLeft" data-wow-delay=".9s">
                         <div class="media-body">
-                            <h4 class="media-heading"><strong>Cash withdrawals at ATM:</strong> </h4>
+                            <h4 class="media-heading"><strong>Cash withdrawals at ATM:</strong>
+ </h4>
                             <hr />
                             <br />
                             <ul class="b">
@@ -210,7 +211,8 @@
                      <p><span style="color:#15A346;">Step 2: </span>Choose your language from the list. </p>
                      <p><span style="color:#15A346;">Step 3: </span>Enter your 'Personal Identification Number’ (PIN); ATM will direct you to the next step of your transaction. </p>
                      <p><span style="color:#15A346;">Step 4: </span>Choose your option from the list. (Cash withdrawal,PIN change, Balance Inquiry and Mini statement  etc.)</p>
-                     <p><span style="color:#15A346;">Step 5: </span>If you do not wish to do further transactions, collect your card. The card should  be collected  as soon  as  it is ejected. or else it will be retained by the ATM. In such event, contact the ATM linked branch or card issuing branch.</p>                                <br />
+                     <p><span style="color:#15A346;">Step 5: </span>If you do not wish to do further transactions, collect your card. The card should  be collected  as soon  as  it is ejected. or else it will be retained by the ATM. In such event, contact the ATM linked branch or card issuing branch.</p>
+                                <br />
                             </ul>
                         </div>
                     </div>
@@ -220,7 +222,8 @@
 
                         <div class="media-body">
 
-                            <h4 class="media-heading"><strong>Using RuPay Debit Card at Merchant Establishments: (Subject to availability of service from Bank):</strong> </h4>
+                            <h4 class="media-heading"><strong>Using RuPay Debit Card at Merchant Establishments: (Subject to availability of service from Bank):</strong>
+ </h4>
                             <hr />
                             <br />
                             <ul class="b">
@@ -229,7 +232,8 @@
                      <p><span style="color:#15A346;">Step 3: </span>The merchant provides a PIN pad, where you will have to enter your PIN. The PIN used in ATM to withdraw money should be used at Merchant Establishments. </p>
                      <p><span style="color:#15A346;">Step 4: </span>POS terminal will process the transaction and charge slip will be printed. </p>
                      <p><span style="color:#15A346;">Step 5: </span>Verify the amount on the charge slip and sign on the merchant copy. </p>
-                     <p><span style="color:#15A346;">Step 6: </span>The merchant will return the customer copy of the charge slip and your card. </p>                               
+                     <p><span style="color:#15A346;">Step 6: </span>The merchant will return the customer copy of the charge slip and your card. </p>
+                               
                             </ul>
                         </div>
                     </div>
@@ -253,7 +257,8 @@
                      <p class="text-left"><span style="color:#15A346;">1. Debit Card Number: </span>This is your unique 16 digit card number. Please quote this number in all your correspondences / communications with the Bank.</p>
                      <p class="text-left"><span style="color:#15A346;">2. Card holder's Name: </span>Only you are authorized to use your card. Please check to see that you’re Card has been correctly indent printed.</p>
                      <p class="text-left"><span style="color:#15A346;">3. Validity: </span>The card is valid until the last day of the month of the year indicated on the card.</p>
-                     <p class="text-left"><span style="color:#15A346;">4. RuPay Logo: </span>Any merchant establishment and ATM displaying RuPay logo should accept your Rupay Debit Card in India. </p>
+                     <p class="text-left"><span style="color:#15A346;">4. RuPay Logo: </span>Any merchant establishment and ATM displaying RuPay logo should accept your Rupay Debit Card in India. </p>
+
 				</div>
 				<div class="col-md-6 services-grids top-1" style="height:417px;">
 					
@@ -271,7 +276,8 @@
 					<a><h4>BACK</h4></a>
                      <p class="text-left"><span style="color:#15A346;">1. Magnetic Stripe: </span>Important information pertaining to Rupay Debit Card is enclosed here. Protect your card from scratches or exposure to magnets or magnetic fields as it could damage the data on the magnetic stripe.</p>
                      <p class="text-left"><span style="color:#15A346;">2. Signature Panel : </span>Please sign on the signature panel immediately after receipt of you're card by non-erasable ball point pen(preferably in bank link.)  </p>                
-                     <p class="text-left"><span style="color:#15A346;">3. Card Validation Data 2(CVD2): </span>The CVD2 number helps you to perform e-commerce transactions. </p>                	</div>
+                     <p class="text-left"><span style="color:#15A346;">3. Card Validation Data 2(CVD2): </span>The CVD2 number helps you to perform e-commerce transactions. </p>
+                	</div>
 				</div>
 				
 									
