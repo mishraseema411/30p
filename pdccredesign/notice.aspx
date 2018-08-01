@@ -38,9 +38,11 @@
 <body>
      <head:Header runat="server" ID="header1" />
     <style>
-      h3:hover {
-           color:yellow;
+      #az:hover {
+           color:#E9AB19;
         }
+        #az {
+        color:black;}
         </style>
    <!-- stats -->
     <div class="container">
@@ -50,7 +52,7 @@
         <h3 style="text-align:center">Please visit the links below for more details.<h3>
         </div>
     <div class="container">
-        <h3 font>NOTICE 1</h3>
+       <a href="" class="download_form_notice" title="Notice-1" target="_blank"><h3 id="az" >Notice-1<img style="margin-top:-5px;margin-left:5px;" src="images/Account/new.gif"></h3></a><br />        <a href="" class="download_form_notice" title="Notice-1" target="_blank"><h3 id="az" >Notice-1<img style="margin-top:-5px;margin-left:5px;" src="images/Account/new.gif"></h3></a><br />        <a href="" class="download_form_notice" title="Notice-1" target="_blank"><h3 id="az" >Notice-1<img style="margin-top:-5px;margin-left:5px;" src="images/Account/new.gif"></h3></a><br />
         </div>
         <script src="js/jquery.waypoints.min.js"></script>
         <script src="js/jquery.countup.js"></script>

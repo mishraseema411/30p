@@ -93,33 +93,40 @@ div.panel.show {
     display:inline-block;
     padding:0 20px;
 }
+
+      #az:hover {
+           color:#E9AB19;
+        }
+       
+        
   </style>
 </head>
 <body>
 
 
-<button class="accordion" style= "font-size: 20px;font-weight: bold;"><u>Tender Details - HO Third Floor</u><img style="margin-top:-5px;margin-left:5px" src="images/Account/new.gif" ></button>
+<button class="accordion" style= "font-size: 20px;font-weight: bold;" id="az"><u>Tender Details - HO Third Floor</u><img style="margin-top:-5px;margin-left:5px" src="images/Account/new.gif" ></button>
 <div class="panel">
   <br />
   <p>Download<br /><a  target="_blank" class="text-center btn btn-primary" href="#" >Click  here</a></p>
 </div>
 
-<button class="accordion" style="font-size: 20px;font-weight: bold;"><u>Tender Details - Goods & Stationary</u><img style="margin-top:-5px;margin-left:5px" src="images/Account/new.gif"></button>
+<button class="accordion" style="font-size: 20px;font-weight: bold;"id="az"><u>Tender Details - Goods & Stationary</u><img style="margin-top:-5px;margin-left:5px" src="images/Account/new.gif"></button>
 <div class="panel">
   <br />
   <p>Download<br /><a  target="_blank" class="text-center btn btn-primary" href="#" >Click  here</a></p>
 </div>
 
-<button class="accordion" style="font-size: 20px;font-weight: bold;"><u>Bhigwan Branch Tender Notice</u><img style="margin-top:-5px;margin-left:5px" src="images/Account/new.gif""></button>
+<button class="accordion" style="font-size: 20px;font-weight: bold;"id="az"><u>Bhigwan Branch Tender Notice</u><img style="margin-top:-5px;margin-left:5px" src="images/Account/new.gif""></button>
 <div class="panel">
   <p>Opening Date <br /><b>07/07/2018</b></p><p>Closing Date <br /><b>13/07/2018</b></p><br /><p>Download<br /><a  target="_blank" class="text-center btn btn-primary" href="#" >Click  here</a></p>
 </div>
 
 
-<button class="accordion" style="font-size: 20px;font-weight: bold;"><u>Indapur Branch Interior Tender Notice</u></button>
+<button class="accordion" style="font-size: 20px;font-weight: bold;" id="az"><u>Indapur Branch Interior Tender Notice</u></button>
 <div class="panel">
   <p>Opening Date <br /><b><u>25</u></b>/05/2018</p><p>Closing Date <br /><b><u>31</u></b>/05/2018</p><br /><p>Download<br /><a  target="_blank" class="text-center btn btn-primary" href="#" >Click  here</a></p>
-</div>
+</div>
+
 
 
 
