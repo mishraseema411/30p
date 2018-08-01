@@ -77,7 +77,8 @@
 .tg .tg-w7nn{border-color:#963400;text-align:center}
 .tg .tg-lwx4{font-weight:bold;background-color:#ce6301;color:#000000;border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-p9rh{font-weight:bold;font-family:"Lucida Console", Monaco, monospace !important;;background-color:#ce6301;color:#000000;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-s8ib{font-weight:bold;font-family:"Lucida Console", Monaco, monospace !important;;background-color:#ce6301;color:#000000;border-color:#963400;text-align:center;vertical-align:top}.hrline{
+.tg .tg-s8ib{font-weight:bold;font-family:"Lucida Console", Monaco, monospace !important;;background-color:#ce6301;color:#000000;border-color:#963400;text-align:center;vertical-align:top}
+.hrline{
     width:50%;
     background:#e9ab19;
     height:2px;

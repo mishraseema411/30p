@@ -7,7 +7,7 @@
  
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
-		<link rel="shortcut icon" href="img/logopdcc.png"/>
+		 <link rel="shortcut icon" href="images/logotransparent.png" />
 <!-- //for-mobile-apps -->
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
@@ -22,12 +22,19 @@
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" property="" />
 <link href="//fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
 <link href="//fonts.googleapis.com/css?family=Droid+Serif:400,400i,700,700i" rel="stylesheet">
+<style>
+    .banner-address p a{
+                color: #343434;
+                font-size: 0.9em;
+                margin: 4px 0 0;
+            }
 
+</style>
 
-<div class="w3ls-banner-info-bottom">
+<div class="w3ls-banner-info-bottom" style="background-color:#EEEEEE; color:black;">
 		<div class="container">
 
-			<div class="banner-address ">
+			<div class="banner-address " >
 				<div class="col-md-1 banner-address-left">
 					<p><i class="fa fa-user" aria-hidden="true"></i> <a href="#">Personal </a></p>
 				</div>
@@ -55,7 +62,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="header">
+	<div class="header" style="background:#000;">
 		<div class="container">
 			<nav class="navbar navbar-default">
 				<div class="navbar-header navbar-left">
@@ -71,10 +78,10 @@
 				<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
 					<nav class="cl-effect-13" id="cl-effect-13">
 						<ul class="nav navbar-nav ">
-							<li ><a href="index.aspx">Home</a></li>
+							<li ><a href="index.aspx" style="color:#fff;">Home</a></li>
 						
 							<li>
-								<a href="aboutus.aspx">About Us</a>
+								<a href="aboutus.aspx" style="color:#fff;">About Us</a>
 								<!--<ul class="dropdown-menu agile_short_dropdown">
 									<li><a href="#tab1">Introduction</a></li>
 									<li><a href="#tab2">Board Of Directors</a></li>
@@ -83,10 +90,10 @@
 								</ul>-->
 							</li>
 							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Loan <b class="caret"></b></a>
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown" style="color:#fff;">Loan <b class="caret"></b></a>
 								<ul class="dropdown-menu agile_short_dropdown">
 									<li>
-                                        <a href="nonagriculture_loan.aspx">Non-Agricultural Loan</a>
+                                        <a href="nonagriculture_loan.aspx" style="color:#fff;">Non-Agricultural Loan</a>
                                         
                                         <!--<ul class="dropdown-menu agile_short_dropdown">
 									        <li><a href="personal_loan.aspx">Personal Loan</a></li>
@@ -106,7 +113,7 @@
 								</ul>
 							</li>
 							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Account <b class="caret"></b></a>
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown" style="color:#fff;">Account <b class="caret"></b></a>
 								<ul class="dropdown-menu agile_short_dropdown">
 									<li><a href="saving_accounts.aspx">Saving Account</a></li>
 									<li><a href="current_account.aspx">Current Account</a></li>
@@ -114,7 +121,7 @@
 								</ul>
 							</li>
 							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Banking Services <b class="caret"></b></a>
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown" style="color:#fff;">Banking Services <b class="caret"></b></a>
 								<ul class="dropdown-menu agile_short_dropdown">
 									<li><a href="any_branch_banking.aspx">Any Branch Banking</a></li>
 									<li><a href="imps.aspx">IMPS</a></li>
@@ -123,7 +130,7 @@
 								</ul>
 							</li>
 							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Deposit <b class="caret"></b></a>
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown" style="color:#fff;">Deposit <b class="caret"></b></a>
 								<ul class="dropdown-menu agile_short_dropdown">
 									<li><a href="fixed_deposit.aspx">Fixed Deposit</a></li>
 									<li><a href="recurring_deposit.aspx">Recurring Deposit</a></li>
@@ -131,8 +138,8 @@
 									<li><a href="interest_rate.aspx">Interest Rates</a></li>
 								</ul>
 							</li>
-							<li><a href="cards.aspx">Cards</a></li>
-							<li><a href="contact.aspx">Contact</a></li>
+							<li><a href="cards.aspx" style="color:#fff;">Cards</a></li>
+							<li><a href="contact.aspx" style="color:#fff;">Contact</a></li>
 						</ul>
 <!-- 						<div class="w3_agile_login">
 							<div class="cd-main-header">
