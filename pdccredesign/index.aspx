@@ -1,37 +1,258 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="pdccredesign.index" %>
 
 <!DOCTYPE html>
-<%@ Register Src="~/header.ascx" TagPrefix="head" TagName="Header" %>
-<%@ Register Src="~/footer.ascx" TagPrefix="foot" TagName="Footer" %>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head>
-<title>Pune District Central Co-Operative Bank Ltd.</title>
-<!-- for-mobile-apps -->
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <!--    Document Title-->
+        
+        <title>Posh | Create Beautiful Websites. Effortlessly.</title>
+        
+        <!-- Default stylesheets-->
+        <link href="assets/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+        <link href="assets/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+        <link href="assets/lib/iconsmind/iconsmind.css" rel="stylesheet">
+        <link href="assets/lib/css-hamburgers/dist/hamburgers.css" rel="stylesheet">
+        <link href="assets/css/style.css" rel="stylesheet">
+        <link href="assets/css/custom.css" rel="stylesheet"> 
+        <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+        
  
-<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
-		function hideURLbar(){ window.scrollTo(0,1); } </script>
-		<link rel="shortcut icon" href="images/logotransparent.png"/>
-<!-- //for-mobile-apps -->
-<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+        <!-- //font-awesome icons -->
 
-    <link href="css/style1.css" rel="stylesheet" type="text/css"/>
-<!-- js -->
-<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
-<script src="js/main.js"></script>
-<!-- //js -->
-<!-- font-awesome icons -->
-<link rel="stylesheet" href="css/font-awesome.min.css" />
-<!-- //font-awesome icons -->
-<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" property="" />
-<link href="//fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
-<link href="//fonts.googleapis.com/css?family=Droid+Serif:400,400i,700,700i" rel="stylesheet">
- </head>
-<body>
-   <head:Header runat="server" ID="header1" />
-   <div class="banner">
+        <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" property="" />
+        <link href="//fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
+        <link href="//fonts.googleapis.com/css?family=Droid+Serif:400,400i,700,700i" rel="stylesheet">
+        <style>
+            
+            .banner-address i.fa.fa-user, .banner-address i.fa.fa-pagelines, .banner-address i.fa.fa-building , .banner-address i.fa.fa-sticky-note-o, .banner-address i.fa.fa-bullseye, .banner-address i.fa.fa-clone, .banner-address i.fa.fa-bell-o, .banner-address i.fa.fa-download{
+    color: #E9AB19;
+    font-size: 0.9em;
+     margin-left: 4px;
+}
+            .banner-address p {
+    color: #343434;
+    font-size: 0.9em;
+    margin: 4px 0 0;
+}
+
+            .banner-address p a{
+	            color:#150E0E;
+	            font-size: 12px;
+	            text-decoration:none;
+            }
+             
+        </style>
+    </head>
+    <body data-spy="scroll" data-target=".inner-link" data-offset="60">
+        <main>
+            <section class="color-8 py-2 hidden-md-down" style="background: #EEEEEE !important;height:60px;margin-top:-15px;">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-md-10 align-self-center">
+                        <div class="w3ls-banner-info-bottom" style="background: #EEEEEE !important;">
+                            <div class="container">
+
+                                <div class="banner-address">
+                                    <div class="col-md-1 banner-address-left">
+                                        <p><i class="fa fa-user" aria-hidden="true"></i><a href="#">Personal </a></p>
+                                    </div>
+                                    <div class="col-md-2 banner-address-left">
+                                        <p><i class="fa fa-pagelines" aria-hidden="true"></i><a href="#">Agriculture </a></p>
+                                    </div>
+                                    <div class="col-md-1 banner-address-left">
+                                        <p><i class="fa fa-building" aria-hidden="true"></i><a href="#">Business </a></p>
+                                    </div>
+                                    <div class="col-md-1 banner-address-left">
+                                        <p><i class="fa fa-sticky-note-o" aria-hidden="true"></i><a href="#">Tenders </a></p>
+                                    </div>
+                                    <div class="col-md-1 banner-address-left">
+                                        <p><i class="fa fa-bullseye" aria-hidden="true"></i><a href="#">Career </a></p>
+                                    </div>
+                                    <div class="col-md-1 banner-address-left">
+                                        <p><i class="fa fa-clone" aria-hidden="true"></i><a href="#">Reports </a></p>
+                                    </div>
+                                    <div class="col-md-1 banner-address-left">
+                                        <p><i class="fa fa-bell-o" aria-hidden="true"></i><a href="#">Notice </a></p>
+                                    </div>
+                                    <div class="col-md-2 banner-address-left">
+                                        <p><i class="fa fa-download" aria-hidden="true"></i><a href="#">Downloads </a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+            <div class="znav-container background-1 sticky-top" id="znav-container">
+                <div class="container">
+                    <nav class="navbar navbar-toggleable-md">
+                        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                            <div class="hamburger hamburger--emphatic">
+                                <div class="hamburger-box">
+                                    <div class="hamburger-inner"></div>
+                                </div>
+                            </div>
+                        </button>
+                        <a class="navbar-brand" href="index.html">
+                            <img class="img-responsive" src="images/logotransparent.png" alt="Smiley face" style="height:50px;">
+                        </a>
+                        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                            <ul class="navbar-nav ml-auto">
+                                <li>
+                                    <a href="index.aspx" style="font-family:Verdana, sans-serif;font-weight:normal;font-size:15px;">Home</a>
+                                    
+                                </li>
+                                <li>
+                                    <a href="aboutus.aspx" style="font-family:Verdana, sans-serif;font-weight:normal;font-size:15px;">About Us</a>
+                                    <ul class="dropdown" style="font-family:Verdana, sans-serif;font-weight:normal;font-size:15px;">
+                                        <li><a href="#tab1">Introduction</a></li>
+                                        <li><a href="#tab2">Board Of Directors</a></li>
+                                        <li><a href="#tab3">Management</a></li>
+									    <li><a href="#tab4">Annual Report</a></li>
+                                       
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="JavaScript:void(0)" style="font-family:Verdana, sans-serif;font-weight:normal;font-size:15px;">Loans</a>
+                                    <ul class="dropdown" style="font-family:Verdana, sans-serif;font-weight:normal;font-size:15px;">
+                                        
+                                        <li>
+                                            <a href="nonagriculture_loan.aspx">Non-Agriculture Loans</a>
+                                            <ul class="dropdown dropdown-push-left">
+                                                <li>
+                                                    <a href="personal_loan.aspx">Personal Loans</a>
+                                                </li>
+                                                <li>
+                                                    <a href="gold_loan.aspx">Gold Loan</a>
+                                                </li>
+                                                <li>
+                                                    <a href="consumer_loan.aspx">Personal Loans</a>
+                                                </li>
+                                                <li>
+                                                    <a href="education_loan.aspx">Education Loan</a>
+                                                </li>
+                                                <li>
+                                                    <a href="vehicle_loan.aspx">Vehicle Loans</a>
+                                                </li>
+                                                <li>
+                                                    <a href="business_loan.aspx">Business Loan</a>
+                                                </li>
+                                                <li>
+                                                    <a href="home_loan.aspx">Home Loans</a>
+                                                </li>
+                                                <li>
+                                                    <a href="self_help_group.aspx">Self Help Group</a>
+                                                </li>
+                                                <li>
+                                                    <a href="non_agriculture_interest_rate.aspx">Non Agriculture Interest Rates</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="agriculture_loan.aspx" style="font-family:Verdana, sans-serif;font-weight:normal;font-size:15px;">Agriculture Loans</a>
+                                            <ul class="dropdown dropdown-push-left" style="font-family:Verdana, sans-serif;font-weight:normal;font-size:15px;">
+                                                <li>
+                                                    <a href="short_term_loan.aspx">Short Term Loans</a>
+                                                </li>
+                                                <li>
+                                                    <a href="medium_term_loan.aspx">Medium Term Loans</a>
+                                                </li>
+                                                <li>
+                                                    <a href="long_term_loan.aspx">Long Term Loans</a>
+                                                </li>
+                                                <li>
+                                                    <a href="direct_loan.aspx">Direct Loans</a>
+                                                </li>
+                                                <li>
+                                                    <a href="agriculture_interest_rate.aspx">Agriculture Interest Rates</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                       <li>
+                                            <a href="interest_rate.aspx" style="font-family:Verdana, sans-serif;font-weight:normal;font-size:15px;">Interest Rates</a>
+                                       </li
+                                        <li>
+                                            <a href="calculate.aspx" style="font-family:Verdana, sans-serif;font-weight:normal;font-size:15px;">Calculate</a>
+                                       </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="JavaScript:void(0)" style="font-family:Verdana, sans-serif;font-weight:normal;font-size:15px;">Account</a>
+                                     <ul class="dropdown dropdown-push-left">
+                                        <li>
+                                            <a href="saving_accounts.aspx" style="font-family:Verdana, sans-serif;font-weight:normal;font-size:15px;">Savings Account</a>
+                                        </li
+                                         <li>
+                                            <a href="current_account.aspx" style="font-family:Verdana, sans-serif;font-weight:normal;font-size:15px;">Current Account</a>
+                                        </li>
+                                         <li>
+                                            <a href="calculate.aspx" style="font-family:Verdana, sans-serif;font-weight:normal;font-size:15px;">Calculate</a>
+                                        </li>
+                                    </ul>   
+                                    
+                                </li>
+								<li>
+                                    <a href="JavaScript:void(0)" style="font-family:Verdana, sans-serif;font-weight:normal;font-size:15px;">Banking Services</a>
+                                     <ul class="dropdown dropdown-push-left">
+                                        <li>
+                                            <a href="any_branch_banking.aspx" style="font-family:Verdana, sans-serif;font-weight:normal;font-size:15px;">Any Branch Banking</a>
+                                        </li>
+                                         <li>
+                                            <a href="imps.aspx" style="font-family:Verdana, sans-serif;font-weight:normal;font-size:15px;">IMPS</a>
+                                        </li>
+                                         <li>
+                                            <a href="lockers.aspx" style="font-family:Verdana, sans-serif;font-weight:normal;font-size:15px;">Lockers</a>
+                                        </li>
+                                         <li>
+                                            <a href="mseb_bills.aspx" style="font-family:Verdana, sans-serif;font-weight:normal;font-size:15px;">MSEB Bills</a>
+                                        </li>
+                                    </ul>   
+                                    
+                                </li>
+                                <li>
+                                    <a href="JavaScript:void(0)" style="font-family:Verdana, sans-serif;font-weight:normal;font-size:15px;">Deposit</a>
+                                     <ul class="dropdown dropdown-push-left" style="font-family:Verdana, sans-serif;font-weight:normal;font-size:15px;">
+                                        <li>
+                                            <a href="fixed_deposit.aspx">Fixed Deposits</a>
+                                        </li>
+                                         <li>
+                                            <a href="recurring_deposit.aspx">Recurring Deposits</a>
+                                        </li>
+                                         <li>
+                                             <a href="calculate.aspx">Calculate</a>
+                                        </li>
+                                         <li>
+                                           <a href="interest_rate.aspx">Interest Rates</a>
+                                        </li>
+                                    </ul>   
+                                    
+                                </li>
+                                
+								<li>
+                                    <a href="cards.aspx" style="font-family:Verdana, sans-serif;font-weight:normal;font-size:15px;">Cards</a>
+                                        
+                                </li>
+								<li>
+                                    <a href="contact.aspx" style="font-family:Verdana, sans-serif;font-weight:normal;font-size:15px;">Contact Us</a>
+                                       
+                                </li>
+                                
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+                <!-- /.container-->
+            </div>
+            <!-- /.znav-container-->
+
+            <div class="banner">
 		<div class="container">
 			<section class="slider">
 					<div class="flexslider">
@@ -227,30 +448,25 @@
 	<script src="js/jquery.waypoints.min.js"></script>
 	<script src="js/jquery.countup.js"></script>
     <script src="js/bootstrap.js"></script>
-<script src="js_1/vendor/jquery-1.11.2.min.js"></script>
+ 
 		<script>
 			$('.counter').countUp();
 		</script>
 <!-- //stats -->
 
-
-
-
-    <div class="scrollup">
-            <a href="#"><i class="fa fa-chevron-up"></i></a>
-        </div>
-
-      
-
-  
-
-       
-    
- <foot:Footer runat="server" ID="footer1" />
-    <!-- for bootstrap working -->
-
-
-<!-- //for bootstrap working -->
-</body>
- 
-</html> 
+           
+        </main>
+        <!--  -->
+        <!--    JavaScripts-->
+        <!--    =============================================-->
+        <script src="assets/lib/jquery/dist/jquery.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
+        <script src="assets/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+        <script src="assets/lib/owl.carousel/dist/owl.carousel.min.js"></script>
+        <script src="assets/lib/flexslider/jquery.flexslider.js"></script>
+        <script src="assets/js/googlemap.js"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCoK8GIrOHzHwnzHCyqrdtmTpUWcdrTTD8&callback=initMap"></script>
+        <script src="assets/js/core.js"></script>
+        <script src="assets/js/main.js"></script>
+    </body>
+</html>
