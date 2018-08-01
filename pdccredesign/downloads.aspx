@@ -38,7 +38,7 @@
 
             <div class="services-w3lsrow">
                 <div class="col-md-4 services-grids top">
-                    <i class="fa fa-briefcase" style="font-size: 40px; padding-bottom: 15px; color: #e9ab19;"></i>
+                    <i class="" style="font-size: 40px; padding-bottom: 15px; color: #e9ab19;"></i>
                     <a href="#">
                         <h4>Savings Account</h4>
                     </a>
@@ -50,7 +50,7 @@
                     </div>
                 </div>
                 <div class="col-md-4 services-grids top-1">
-                    <i class="fa fa-user" style="font-size: 40px; padding-bottom: 15px; color: #e9ab19;"></i>
+                    <i class="" style="font-size: 40px; padding-bottom: 15px; color: #e9ab19;"></i>
                     <a href="#">
                         <h4>Fixed Deposit </h4>
                     </a>
@@ -60,7 +60,7 @@
                     </div>
                 </div>
                 <div class="col-md-4 services-grids top-2">
-                    <i class="fa fa-save" style="font-size: 40px; padding-bottom: 15px; color: #e9ab19;"></i>
+                    <i class="" style="font-size: 40px; padding-bottom: 15px; color: #e9ab19;"></i>
                     <a href="#">
                         <h4>Kyc Form</h4>
                     </a>
@@ -73,13 +73,14 @@
                 </div>
             </div>
         </div>
+        </div>
 
         <div class="services">
             <div class="container">
                 <div class="col-md-4">
                 </div>
                 <div class="col-md-4 services-grids top-4">
-                    <i class="fa fa-edit" style="font-size: 40px; padding-bottom: 15px; color: #e9ab19;"></i>
+                    <i class="" style="font-size: 40px; padding-bottom: 15px; color: #e9ab19;"></i>
                     <a href="#">
                         <h4>Kyc-2 Form </h4>
                     </a>
